@@ -1,0 +1,9 @@
+{
+  "versionCode": 4,
+  "versionName": "0.04",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.04/Orvio-0.04.apk",
+  "sizeBytes": 3277092,
+  "sha256": "8aeec3b6d90478f4122346934927210cd64b4c66ff59bca7cae47ad5f7f46bee",
+  "minSdk": 26,
+  "notes": "# Orvio 0.04 preview\n\n- Automatic app update downloads over Wi-Fi or Ethernet, with optional mobile data.\n- Update-ready notice and installation from Settings > Updates.\n- APK integrity, package, version and signing-certificate verification.\n- IMDb and Rotten Tomatoes poster ratings, cached on the device.\n\nInstall this APK manually once. Later versions can download in the background. Android may ask you to allow installation from Orvio. This is a preview release.\n"
+}
