@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "0.04",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.04/Orvio-0.04.apk",
-  "sizeBytes": 3277092,
-  "sha256": "8aeec3b6d90478f4122346934927210cd64b4c66ff59bca7cae47ad5f7f46bee",
+  "versionCode": 5,
+  "versionName": "0.05",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.05/Orvio-0.05.apk",
+  "sizeBytes": 11055652,
+  "sha256": "d766bcf978d6d4cd75d6f9f908b386dcad29e4887fee76a8c52dd60e865d4420",
   "minSdk": 26,
-  "notes": "# Orvio 0.04 preview\n\n- Automatic app update downloads over Wi-Fi or Ethernet, with optional mobile data.\n- Update-ready notice and installation from Settings > Updates.\n- APK integrity, package, version and signing-certificate verification.\n- IMDb and Rotten Tomatoes poster ratings, cached on the device.\n\nInstall this APK manually once. Later versions can download in the background. Android may ask you to allow installation from Orvio. This is a preview release.\n"
+  "notes": "# Orvio 0.05\n\n- Restores AC-3/E-AC-3 audio on devices without a platform decoder using a bundled audio fallback. AAC remains hardware-decoded where supported.\n- Refreshed phone Home, series details, provider category sheet and grouped Settings pages.\n- Mobile fullscreen rotates to landscape and restores the previous orientation. Removed the fullscreen focus hairline; live playback no longer displays a fake zero-duration timeline.\n- Downloads and Android notifications show bytes/total, measured speed and approximate time remaining, with working Pause/Cancel actions.\n- Separate playlist import screen, stacked login fields and compact refresh/update settings.\n- Original provider names take priority; unambiguous English TVmaze matches can supplement episode titles, artwork and durations. Missing or ambiguous metadata is not invented.\n\nThe first APK installation is manual. Existing 0.04 installs can receive this update through Orvio. Android installation confirmation is still required.\n\nAudio library sources and license texts: Orvio-audio-sources-0.05.zip attached to this release. Original app source remains private.\n\nVerified on Android phone and TV emulators: AC-3 and AAC decoded output buffers, fullscreen return, offline progressive/adaptive playback, mobile navigation, download notification progress and Pause. The minified release APK loads the native audio decoder on both emulators. No physical-device listening test was performed.\n"
 }
