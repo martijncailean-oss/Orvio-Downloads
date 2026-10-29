@@ -1,9 +1,9 @@
 {
-  "versionCode": 1012,
-  "versionName": "0.12",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.12/Orvio-TV-0.12.apk",
-  "sizeBytes": 13462753,
-  "sha256": "c78458ef9c629076a1039fda56574b8613e4b73d655804855681813fb8e8c967",
+  "versionCode": 1013,
+  "versionName": "0.13",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.13/Orvio-TV-0.13.apk",
+  "sizeBytes": 13479269,
+  "sha256": "c695655d80b5d99bb17965e94ebd2911f283f804045d8d744debb8b176bb8fe8",
   "minSdk": 26,
-  "notes": "# Orvio 0.12\n\n- Orvio account: sign in or create an account with your e-mail. New accounts confirm their e-mail address first. Your account is in Settings > Account, where you can also sign out.\n- The Home banner appears straight away, also when you come back to Home.\n- Recently watched has a Clear button (films and series then start from the beginning again; favourites stay).\n- Live TV, Movies and Series categories are in the same order as your provider lists them. Refresh the playlist once to apply it.\n- Phone Live TV shows one cast button instead of two.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
+  "notes": "# Orvio 0.13\n\n- Account e-mails open Orvio: tap the confirmation link on your phone and Orvio signs you in. \"Forgot password?\" works the same way and lets you choose a new password.\n- After creating an account, a clear \"Confirm your e-mail\" screen shows where the e-mail went, with \"Send the e-mail again\".\n- Show / Hide for your password, and \"Repeat password\" when creating an account.\n- The Sign in button always responds and tells you what is missing, instead of looking greyed out.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
 }
