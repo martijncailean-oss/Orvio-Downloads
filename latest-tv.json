@@ -1,0 +1,9 @@
+{
+  "versionCode": 1009,
+  "versionName": "0.09",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.09/Orvio-TV-0.09.apk",
+  "sizeBytes": 12865292,
+  "sha256": "7235bf066dace034004c8451bffd7c11db327e7b2148739a04a5d5f407b31b27",
+  "minSdk": 26,
+  "notes": "# Orvio 0.09\n\nOrvio now comes as two apps: **Orvio** for phones and tablets, and **Orvio TV** for Android TV and Google TV.\n\n**TV**\n- Live TV, Movies and Series have a category list on the left with search on top, instead of dropdowns and search buttons.\n- Home shows compact rows of cards that scroll with the remote.\n- While watching, the channel banner and player header show the picture and sound: 4K / FHD / HD / SD, resolution, FPS, codec and audio (Atmos, Dolby Digital, 5.1, Stereo\u2026).\n- A cleaner Add playlist screen; phone-only settings (mobile data, Picture-in-Picture) are gone.\n\n**Phone**\n- Movie page: Resume plus From start, Trailer, Favorite and Download buttons, More like this and the cast with photos.\n- The cast button is visible on dark screens.\n\n**Both**\n- HTTP providers work automatically: there is no HTTP switch any more.\n- Rotten Tomatoes scores no longer wrap on small posters.\n\nFirst installation is manual. Existing installations download this update over the air; a TV running the phone app moves to Orvio TV with this update.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
+}
