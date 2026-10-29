@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "0.09",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.09/Orvio-0.09.apk",
-  "sizeBytes": 12865212,
-  "sha256": "a7d0164af6d976c3e318778d1d8c421c97579116c4fa8b2bf615479dc24b1479",
+  "versionCode": 10,
+  "versionName": "0.10",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.10/Orvio-0.10.apk",
+  "sizeBytes": 12915140,
+  "sha256": "083449995d0357f85da13b44a2c090af0d1926a9cf73163993468906132c727b",
   "minSdk": 26,
-  "notes": "# Orvio 0.09\n\nOrvio now comes as two apps: **Orvio** for phones and tablets, and **Orvio TV** for Android TV and Google TV.\n\n**TV**\n- Live TV, Movies and Series have a category list on the left with search on top, instead of dropdowns and search buttons.\n- Home shows compact rows of cards that scroll with the remote.\n- While watching, the channel banner and player header show the picture and sound: 4K / FHD / HD / SD, resolution, FPS, codec and audio (Atmos, Dolby Digital, 5.1, Stereo\u2026).\n- A cleaner Add playlist screen; phone-only settings (mobile data, Picture-in-Picture) are gone.\n\n**Phone**\n- Movie page: Resume plus From start, Trailer, Favorite and Download buttons, More like this and the cast with photos.\n- The cast button is visible on dark screens.\n\n**Both**\n- HTTP providers work automatically: there is no HTTP switch any more.\n- Rotten Tomatoes scores no longer wrap on small posters.\n\nFirst installation is manual. Existing installations download this update over the air; a TV running the phone app moves to Orvio TV with this update.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
+  "notes": "# Orvio 0.10\n\n**Phone**\n- New look throughout, in deeper blacks with a warm gold accent.\n- Home: a featured banner with the newest titles, Recently watched (live channels and where you stopped), favourite channels and poster rows.\n- Movies and Series: search with a category button, quick filters (All, Favorites, newest, A\u2013Z), a cleaner Filter & sort sheet and IMDb / Rotten Tomatoes scores on the posters.\n- Live TV: edge-to-edge player with LIVE badge and controls, channel name with cast, favourite and info buttons, now and next with a progress bar, provider categories as quick filters and a clearer channel list.\n- Playlist settings: one overview with status, coloured library counts and the last update.\n- No white flash at start-up; the update banner floats above the navigation and release notes are shorter.\n\n**TV**\n- Same new colours.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
 }
