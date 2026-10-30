@@ -1,9 +1,9 @@
 {
-  "versionCode": 1016,
-  "versionName": "0.16",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.16/Orvio-TV-0.16.apk",
-  "sizeBytes": 13448549,
-  "sha256": "55a3898a8e5847026165d94ec813df1dc3e5a5ed41f64ca4666aca0b60b5bf09",
+  "versionCode": 1017,
+  "versionName": "0.17",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.17/Orvio-TV-0.17.apk",
+  "sizeBytes": 13448553,
+  "sha256": "8df07bbbf8461dc044bafd1e772134a31d152a8732bb2ef4bdbd621a1b5d62f2",
   "minSdk": 26,
-  "notes": "# Orvio 0.16\n\n- When the playlist refreshes at start-up, Orvio now waits for it (with progress) before opening, so Movies and Series are complete and nothing keeps loading afterwards.\n- \"Continue with saved list\" skips the wait if your provider is slow.\n"
+  "notes": "# Orvio 0.17\n\n- Orvio opens straight away with your saved playlist; no more waiting at start-up.\n- Automatic refreshes run unseen and swap in the new lists when done: no \"Loading\u2026\" and no red error.\n- New default: refresh every 6 hours, also while Orvio is closed, so your list is usually fresh before you open it.\n- Adding a playlist or tapping Refresh now still shows the progress.\n"
 }
