@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.24/Orvio-0.24.apk",
-  "sizeBytes": 14951570,
-  "sha256": "eed4792fb25742027a9b0a109e41e6d2bb895e1a6d347976e9b460986209cb76",
+  "versionCode": 25,
+  "versionName": "0.25",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.25/Orvio-0.25.apk",
+  "sizeBytes": 14951574,
+  "sha256": "2208ffb8813b150917a2805480976359f9ad01a249bf6072a8ac216c4cc39b60",
   "minSdk": 26,
-  "notes": "# Orvio 0.24\n\n- Movies and Series open on titles with artwork first. Provider files without a poster no longer fill the top of the list.\n- Video badges show the frame rate on phone and Android TV, measured from playback when the stream does not report it.\n- Android TV: Back from a list returns to the selected category, even when it was scrolled out of view.\n- Collections keep the same order when opening a title and going back.\n- Home: \"Clear list\" for Recently watched, reachable with the remote.\n"
+  "notes": "# Orvio 0.25\n\n- IMDb and Rotten Tomatoes scores load much faster on phone and Android TV.\n- IMDb appears right away; the Rotten Tomatoes score is added as soon as it is found.\n- Scores you have already seen show instantly when you scroll back.\n- Posters on screen are looked up first, even after scrolling through long lists.\n"
 }
