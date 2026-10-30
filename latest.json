@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.22/Orvio-0.22.apk",
+  "versionCode": 23,
+  "versionName": "0.23",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.23/Orvio-0.23.apk",
   "sizeBytes": 14935190,
-  "sha256": "f055508bffa105e1e5ae5994f17010bc14cf21b5c866f5882b646a6284af9e62",
+  "sha256": "af68f70c0c4fb257072bafa7ae08a8c500eb301fa38dcb07d34a715edb983299",
   "minSdk": 26,
-  "notes": "# Orvio 0.22\n\n- Browse movie and series genres with eighteen new images, search and multiple selections. The phone uses a bottom sheet; Android TV uses a side panel with visible remote-control focus.\n- Genre filters stay within the current collection: Movies shows movie genres, Series shows series genres. Selection counts update before applying and work alongside your other filters.\n- Improved IMDb and Rotten Tomatoes coverage by resolving missing release years and checking for available Rotten Tomatoes critic scores independently.\n- Preserve more release-year and genre information from playlists. Titles without recognized genre data remain under Not specified.\n\nRatings are shown when a matching published score is available. Additional playlist metadata becomes available after a normal playlist refresh.\n"
+  "notes": "# Orvio 0.23\n\n- Redesigned Search with a clear search bar, Movies / Series / Live TV filters and library shortcuts. Android TV includes visible remote-control focus.\n- Home prepares its first complete selection before displaying it, instead of replacing temporary recent titles with Trending a few seconds later. Background chart updates are used on the next Home visit.\n- Genre selections stay in the Genres menu. The separate Categories control only shows provider categories.\n- Removed A\u2013Z sorting and the redundant sort controls from Movies, Series and category menus. Collections keep newest-first order, or provider order when dates are unavailable.\n\nOn a first launch without saved charts, Home may briefly show a loading layout while the initial selection is prepared. Navigation remains available.\n"
 }
