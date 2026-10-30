@@ -1,9 +1,9 @@
 {
-  "versionCode": 1020,
-  "versionName": "0.20",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.20/Orvio-TV-0.20.apk",
+  "versionCode": 1021,
+  "versionName": "0.21",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.21/Orvio-TV-0.21.apk",
   "sizeBytes": 13556522,
-  "sha256": "b4ec5e90d3b6a908aa9d8be4dc2af7d31807f1f93caa9c01bc8c8881ab6b59b2",
+  "sha256": "0102410d09573eb0344f1add30019c3e7b7485b0375c577098caa3c46233bbc7",
   "minSdk": 26,
-  "notes": "# Orvio 0.20\n\n- Phone Live TV: compact layout with eight channel rows, category filters, improved player controls and clearer channel logos.\n- Android TV series: a dedicated two-column layout with the complete description directly on the page, remote scrolling for long descriptions and properly proportioned episode images.\n- Android TV navigation: Up from the first Home row returns to the top tabs. View all buttons now have a clear gold focus outline.\n- Trending movies and series: more available titles, separate source caches and recovery after temporary chart failures.\n- Playlist refresh: retry unexpectedly empty sections and recover large movie lists through provider categories. Failed refreshes keep the saved library. Empty Movies and Series pages now offer Refresh playlist.\n\nIf Movies currently shows 0, refresh your playlist after installing this update.\n"
+  "notes": "# Orvio 0.21\n\n- Trending movies and series show saved results first while refreshing in the background, on phone and Android TV.\n- Faster matching of trending titles against large playlists.\n- The phone banner reuses the same trending results as the rows, avoiding duplicate work and unnecessary rating requests.\n\nThe first load without saved trending data still requires an internet connection.\n"
 }
