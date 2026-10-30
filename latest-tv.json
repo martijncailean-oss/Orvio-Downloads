@@ -1,9 +1,9 @@
 {
-  "versionCode": 1030,
-  "versionName": "0.30",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.30/Orvio-TV-0.30.apk",
-  "sizeBytes": 15121997,
-  "sha256": "4a3c878dd7193b66ca4cefcba121253147d954ac030659f7108c8797482efeed",
+  "versionCode": 1031,
+  "versionName": "0.31",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.31/Orvio-TV-0.31.apk",
+  "sizeBytes": 15138381,
+  "sha256": "c1fea2498b29c1a146234080b6124c4c40dd429f9fe5b2c938ae1d99f19944fc",
   "minSdk": 26,
-  "notes": "# Orvio 0.30\n\n- Films and episodes on phones: double tap the right side of the screen to jump 30 seconds forward, the left side to jump 30 seconds back.\n- Picture-in-Picture shows only Android's own controls; the second, unusable pause button is gone.\n- Settings \u2192 Sound: Preview sound now always plays (at media volume). When Android's touch sounds are off, the page says so, since interface sounds stay quiet without them.\n"
+  "notes": "# Orvio 0.31\n\n- TV player: Back leaves the player in one press.\n- TV player: the button you are on has a gold ring, OK presses it, and the arrows move between the player's buttons.\n- TV player: Left and Right jump one minute back or forward in films and episodes, and in live TV when the channel allows rewinding. Down goes straight to the subtitles button.\n- Live TV: when you pause a channel, Go live appears; press play to continue live.\n- Live TV, Movies and Series open without the remote stalling, and navigation sounds play straight away.\n"
 }
