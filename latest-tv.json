@@ -1,9 +1,9 @@
 {
-  "versionCode": 1026,
-  "versionName": "0.26",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.26/Orvio-TV-0.26.apk",
-  "sizeBytes": 14951654,
-  "sha256": "c02c68e54f29994448e937c0e83e25cbb121263d3b5ad17871b687722e932722",
+  "versionCode": 1027,
+  "versionName": "0.27",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.27/Orvio-TV-0.27.apk",
+  "sizeBytes": 14951718,
+  "sha256": "4a98abdfebbbce58cfd9f949c0166ed230f607e02fb118924de973cc9b99dd5c",
   "minSdk": 26,
-  "notes": "# Orvio 0.26\n\n- IMDb and Rotten Tomatoes scores are fetched ahead of scrolling, so they are ready when you reach them.\n- More scores are looked up at the same time, and titles without a release year no longer slow down the rest.\n- Live TV: the country shortcut now follows your own country (SIM, mobile network or device region) instead of always showing the Netherlands. It is hidden when the country cannot be determined.\n"
+  "notes": "# Orvio 0.27\n\n- Subtitles on phones: choosing a subtitle track (or Off) in Audio & subtitles now takes effect and the checkmark follows your choice. Tracks with the same language are numbered, so two \"English\" tracks can be told apart.\n- Subtitles on TV: press down during a film or episode to jump straight to the subtitles button, then OK.\n- Several playlists now form one library. Every playlist you add is merged automatically: categories with the same name come together and a film, series or channel that more than one playlist carries shows once. There is nothing to switch any more.\n- New Settings: grouped pages with icons and live summaries (playlists and titles, subtitle language, logo style, sound, version), and every page opens with its own header.\n- Playlists page: your whole library at a glance, each playlist with what it adds, Add a playlist, refresh frequency and Update now for all playlists at once.\n- Editing a playlist: Refresh playlist and Remove playlist sit at the top (reachable by TV remote); removing one keeps your other playlists.\n- Restyled Playback, Appearance, Sound, Downloads, Profiles, App updates, Account and About pages.\n"
 }
