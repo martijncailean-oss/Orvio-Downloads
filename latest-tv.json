@@ -1,9 +1,9 @@
 {
-  "versionCode": 1025,
-  "versionName": "0.25",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.25/Orvio-TV-0.25.apk",
+  "versionCode": 1026,
+  "versionName": "0.26",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.26/Orvio-TV-0.26.apk",
   "sizeBytes": 14951654,
-  "sha256": "24ef9f26a219d119699d19434102a469a1020c03134fcaf922031a6f1b55c628",
+  "sha256": "c02c68e54f29994448e937c0e83e25cbb121263d3b5ad17871b687722e932722",
   "minSdk": 26,
-  "notes": "# Orvio 0.25\n\n- IMDb and Rotten Tomatoes scores load much faster on phone and Android TV.\n- IMDb appears right away; the Rotten Tomatoes score is added as soon as it is found.\n- Scores you have already seen show instantly when you scroll back.\n- Posters on screen are looked up first, even after scrolling through long lists.\n"
+  "notes": "# Orvio 0.26\n\n- IMDb and Rotten Tomatoes scores are fetched ahead of scrolling, so they are ready when you reach them.\n- More scores are looked up at the same time, and titles without a release year no longer slow down the rest.\n- Live TV: the country shortcut now follows your own country (SIM, mobile network or device region) instead of always showing the Netherlands. It is hidden when the country cannot be determined.\n"
 }
