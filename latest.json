@@ -1,9 +1,9 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.28/Orvio-0.28.apk",
+  "versionCode": 29,
+  "versionName": "0.29",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.29/Orvio-0.29.apk",
   "sizeBytes": 15121917,
-  "sha256": "8ad2a5cc4c1ac31e49b1ec26f155762a272dee3897227fd1bd2943b9ddcd740c",
+  "sha256": "6b328771fdd6915b29718f56257e9676bcee39879dbb166b45ccb49eea27692f",
   "minSdk": 26,
-  "notes": "# Orvio 0.28\n\n- Live TV with more than one playlist: choose All playlists or one playlist above the channel list. The channel you are watching keeps playing from the chosen playlist when it has it, handy when one playlist stutters. Your choice is remembered.\n- Faster start with several playlists: merging them now runs in the background, so Orvio no longer freezes for a while after opening.\n- New Settings home on phones: your active profile, Your library (Playlists, Downloads), Watching and Account & app, each settings page full screen with its own header.\n- New Settings on TV: every page as a card, and an open page sits beside a side bar with icons.\n- Redesigned Playlists page: each playlist with its type, titles and status, Add playlist, the merged library (duplicates appear once), automatic refresh and Refresh now.\n- Redesigned Profiles, Playback, Appearance, Sound, Account, About and App updates pages, with new artwork. The channel logo preview now shows the Orvio logo.\n- Redesigned Downloads screen: when nothing is saved yet it shows a shortcut to Movies & series, with download quality and storage on the same page.\n- After adding or editing a playlist you return to the Playlists page.\n"
+  "notes": "# Orvio 0.29\n\n- Smoother with several playlists: reading your saved playlists no longer waits on a large library loading in the background, which could freeze the screen after a sync or refresh.\n- Faster search: typing on narrows the previous results instead of searching the whole library again.\n- Faster player for series and a lighter Home screen: less work while playing and when your watch history changes.\n- Genre filters and the Search filter no longer reset when you open a playlist in Settings.\n- Settings always opens on its home page.\n- A channel whose guide fails to load is retried after a minute instead of on every scroll.\n"
 }
