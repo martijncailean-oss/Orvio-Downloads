@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.17/Orvio-0.17.apk",
-  "sizeBytes": 13448469,
-  "sha256": "cc0809ebc4287a7600042d04ee49c476d61a57703b37dadb72f9bdf3eb95c8e7",
+  "versionCode": 19,
+  "versionName": "0.19",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.19/Orvio-0.19.apk",
+  "sizeBytes": 13481237,
+  "sha256": "748aa0ca7ea01d1494e2e6229082d328a0ec06f6f4a1ea283482bb4de1f15d59",
   "minSdk": 26,
-  "notes": "# Orvio 0.17\n\n- Orvio opens straight away with your saved playlist; no more waiting at start-up.\n- Automatic refreshes run unseen and swap in the new lists when done: no \"Loading\u2026\" and no red error.\n- New default: refresh every 6 hours, also while Orvio is closed, so your list is usually fresh before you open it.\n- Adding a playlist or tapping Refresh now still shows the progress.\n"
+  "notes": "# Orvio 0.19\n\n- Trending movies and Trending series on Home, above Recently added, on phone and TV. Renewed every day from what people are watching this week (Wikipedia's most read films and series, plus Apple's Dutch film chart), showing only titles that are in your playlist. The Home banner leads with them too.\n- Your account now syncs between phone and TV: profiles, Recently watched and resume points, favourites, recent channels, settings and playlists. Sign in on the TV with the same account and everything is there.\n- Smooth transitions between tabs and pages, a light press effect on posters and buttons, and smoothly changing tab colours (from 0.18).\n"
 }
