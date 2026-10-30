@@ -1,9 +1,9 @@
 {
-  "versionCode": 1021,
-  "versionName": "0.21",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.21/Orvio-TV-0.21.apk",
-  "sizeBytes": 13556522,
-  "sha256": "0102410d09573eb0344f1add30019c3e7b7485b0375c577098caa3c46233bbc7",
+  "versionCode": 1022,
+  "versionName": "0.22",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.22/Orvio-TV-0.22.apk",
+  "sizeBytes": 14935270,
+  "sha256": "c5966272462d3ecfddd01e393d3a59d3228f388c712c36033da21d413e1431da",
   "minSdk": 26,
-  "notes": "# Orvio 0.21\n\n- Trending movies and series show saved results first while refreshing in the background, on phone and Android TV.\n- Faster matching of trending titles against large playlists.\n- The phone banner reuses the same trending results as the rows, avoiding duplicate work and unnecessary rating requests.\n\nThe first load without saved trending data still requires an internet connection.\n"
+  "notes": "# Orvio 0.22\n\n- Browse movie and series genres with eighteen new images, search and multiple selections. The phone uses a bottom sheet; Android TV uses a side panel with visible remote-control focus.\n- Genre filters stay within the current collection: Movies shows movie genres, Series shows series genres. Selection counts update before applying and work alongside your other filters.\n- Improved IMDb and Rotten Tomatoes coverage by resolving missing release years and checking for available Rotten Tomatoes critic scores independently.\n- Preserve more release-year and genre information from playlists. Titles without recognized genre data remain under Not specified.\n\nRatings are shown when a matching published score is available. Additional playlist metadata becomes available after a normal playlist refresh.\n"
 }
