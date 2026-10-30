@@ -1,9 +1,9 @@
 {
-  "versionCode": 1013,
-  "versionName": "0.13",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.13/Orvio-TV-0.13.apk",
-  "sizeBytes": 13479269,
-  "sha256": "c695655d80b5d99bb17965e94ebd2911f283f804045d8d744debb8b176bb8fe8",
+  "versionCode": 1014,
+  "versionName": "0.14",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.14/Orvio-TV-0.14.apk",
+  "sizeBytes": 13448553,
+  "sha256": "c336f62adf54b5c26c49964d17ff6771beb0a1fde68496540e966ea75c9f6c0e",
   "minSdk": 26,
-  "notes": "# Orvio 0.13\n\n- Account e-mails open Orvio: tap the confirmation link on your phone and Orvio signs you in. \"Forgot password?\" works the same way and lets you choose a new password.\n- After creating an account, a clear \"Confirm your e-mail\" screen shows where the e-mail went, with \"Send the e-mail again\".\n- Show / Hide for your password, and \"Repeat password\" when creating an account.\n- The Sign in button always responds and tells you what is missing, instead of looking greyed out.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
+  "notes": "# Orvio 0.14\n\n- \"Who's watching?\" appears every time Orvio starts, and straight after you create an account: name your first profile and pick an avatar before anything else.\n- Avatars that showed half of the next picture are fixed.\n- Categories show their country or language again, for example \"NL \u00b7 NETFLIX\" and \"EN \u00b7 AMAZON PRIME\".\n- The Home banner shows well-rated titles in your languages instead of whatever was added last.\n- The Default button is gone: Movies and Series show All, Favorites and A\u2013Z.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
 }
