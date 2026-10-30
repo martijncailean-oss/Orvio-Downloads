@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.29/Orvio-0.29.apk",
+  "versionCode": 30,
+  "versionName": "0.30",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.30/Orvio-0.30.apk",
   "sizeBytes": 15121917,
-  "sha256": "6b328771fdd6915b29718f56257e9676bcee39879dbb166b45ccb49eea27692f",
+  "sha256": "c0c6b6b96245fa4f99c01eab666984501df2958695464eb0eece394e83c9ee5d",
   "minSdk": 26,
-  "notes": "# Orvio 0.29\n\n- Smoother with several playlists: reading your saved playlists no longer waits on a large library loading in the background, which could freeze the screen after a sync or refresh.\n- Faster search: typing on narrows the previous results instead of searching the whole library again.\n- Faster player for series and a lighter Home screen: less work while playing and when your watch history changes.\n- Genre filters and the Search filter no longer reset when you open a playlist in Settings.\n- Settings always opens on its home page.\n- A channel whose guide fails to load is retried after a minute instead of on every scroll.\n"
+  "notes": "# Orvio 0.30\n\n- Films and episodes on phones: double tap the right side of the screen to jump 30 seconds forward, the left side to jump 30 seconds back.\n- Picture-in-Picture shows only Android's own controls; the second, unusable pause button is gone.\n- Settings \u2192 Sound: Preview sound now always plays (at media volume). When Android's touch sounds are off, the page says so, since interface sounds stay quiet without them.\n"
 }
