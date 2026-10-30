@@ -1,9 +1,9 @@
 {
-  "versionCode": 1023,
-  "versionName": "0.23",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.23/Orvio-TV-0.23.apk",
-  "sizeBytes": 14935270,
-  "sha256": "a4ee750303e2c002e8fac7c7ab9e8ca057e5ede29b43c493a6958c4c22dfa7a1",
+  "versionCode": 1024,
+  "versionName": "0.24",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.24/Orvio-TV-0.24.apk",
+  "sizeBytes": 14951654,
+  "sha256": "0f7ab577ce6e630fee8c054935e08ed7f0200b80cdad697bbba6f0ec2739c0b4",
   "minSdk": 26,
-  "notes": "# Orvio 0.23\n\n- Redesigned Search with a clear search bar, Movies / Series / Live TV filters and library shortcuts. Android TV includes visible remote-control focus.\n- Home prepares its first complete selection before displaying it, instead of replacing temporary recent titles with Trending a few seconds later. Background chart updates are used on the next Home visit.\n- Genre selections stay in the Genres menu. The separate Categories control only shows provider categories.\n- Removed A\u2013Z sorting and the redundant sort controls from Movies, Series and category menus. Collections keep newest-first order, or provider order when dates are unavailable.\n\nOn a first launch without saved charts, Home may briefly show a loading layout while the initial selection is prepared. Navigation remains available.\n"
+  "notes": "# Orvio 0.24\n\n- Movies and Series open on titles with artwork first. Provider files without a poster no longer fill the top of the list.\n- Video badges show the frame rate on phone and Android TV, measured from playback when the stream does not report it.\n- Android TV: Back from a list returns to the selected category, even when it was scrolled out of view.\n- Collections keep the same order when opening a title and going back.\n- Home: \"Clear list\" for Recently watched, reachable with the remote.\n"
 }
