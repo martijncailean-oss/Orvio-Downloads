@@ -1,9 +1,9 @@
 {
-  "versionCode": 1014,
-  "versionName": "0.14",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.14/Orvio-TV-0.14.apk",
+  "versionCode": 1015,
+  "versionName": "0.15",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.15/Orvio-TV-0.15.apk",
   "sizeBytes": 13448553,
-  "sha256": "c336f62adf54b5c26c49964d17ff6771beb0a1fde68496540e966ea75c9f6c0e",
+  "sha256": "ed7abbd05c942045518bdbcf3a596537e7fa89eda61213695d9e6b4d74d24370",
   "minSdk": 26,
-  "notes": "# Orvio 0.14\n\n- \"Who's watching?\" appears every time Orvio starts, and straight after you create an account: name your first profile and pick an avatar before anything else.\n- Avatars that showed half of the next picture are fixed.\n- Categories show their country or language again, for example \"NL \u00b7 NETFLIX\" and \"EN \u00b7 AMAZON PRIME\".\n- The Home banner shows well-rated titles in your languages instead of whatever was added last.\n- The Default button is gone: Movies and Series show All, Favorites and A\u2013Z.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
+  "notes": "# Orvio 0.15\n\n- First start: only \"Create your profile\"; after saving you go straight in. \"Who's watching?\" from the next start on.\n- Updating keeps your existing profile and history; you are not asked to make a new one.\n- Home banner shows straight away and switches to the best-rated picks once ratings are in.\n- Playlist refresh retries a failed part once, and a failed background refresh no longer shows a red error while your saved list still works.\n"
 }
