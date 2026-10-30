@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.13/Orvio-0.13.apk",
-  "sizeBytes": 13479185,
-  "sha256": "c2ba291885bd20935142dce803fe256b99ea9e53e1aa9d895a551e8d00f58c84",
+  "versionCode": 14,
+  "versionName": "0.14",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.14/Orvio-0.14.apk",
+  "sizeBytes": 13448469,
+  "sha256": "9c950169d93864814b9e8450eb985c004d5fd30409c9678e902c353fbc42ef12",
   "minSdk": 26,
-  "notes": "# Orvio 0.13\n\n- Account e-mails open Orvio: tap the confirmation link on your phone and Orvio signs you in. \"Forgot password?\" works the same way and lets you choose a new password.\n- After creating an account, a clear \"Confirm your e-mail\" screen shows where the e-mail went, with \"Send the e-mail again\".\n- Show / Hide for your password, and \"Repeat password\" when creating an account.\n- The Sign in button always responds and tells you what is missing, instead of looking greyed out.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
+  "notes": "# Orvio 0.14\n\n- \"Who's watching?\" appears every time Orvio starts, and straight after you create an account: name your first profile and pick an avatar before anything else.\n- Avatars that showed half of the next picture are fixed.\n- Categories show their country or language again, for example \"NL \u00b7 NETFLIX\" and \"EN \u00b7 AMAZON PRIME\".\n- The Home banner shows well-rated titles in your languages instead of whatever was added last.\n- The Default button is gone: Movies and Series show All, Favorites and A\u2013Z.\n\nFirst installation is manual. Existing installations download this update over the air; Android still asks to install it.\n\nAudio decoder binaries are unchanged from 0.05; corresponding sources and licenses are attached.\n"
 }
