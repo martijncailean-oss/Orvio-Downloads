@@ -1,9 +1,9 @@
 {
-  "versionCode": 1015,
-  "versionName": "0.15",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.15/Orvio-TV-0.15.apk",
-  "sizeBytes": 13448553,
-  "sha256": "ed7abbd05c942045518bdbcf3a596537e7fa89eda61213695d9e6b4d74d24370",
+  "versionCode": 1016,
+  "versionName": "0.16",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.16/Orvio-TV-0.16.apk",
+  "sizeBytes": 13448549,
+  "sha256": "55a3898a8e5847026165d94ec813df1dc3e5a5ed41f64ca4666aca0b60b5bf09",
   "minSdk": 26,
-  "notes": "# Orvio 0.15\n\n- First start: only \"Create your profile\"; after saving you go straight in. \"Who's watching?\" from the next start on.\n- Updating keeps your existing profile and history; you are not asked to make a new one.\n- Home banner shows straight away and switches to the best-rated picks once ratings are in.\n- Playlist refresh retries a failed part once, and a failed background refresh no longer shows a red error while your saved list still works.\n"
+  "notes": "# Orvio 0.16\n\n- When the playlist refreshes at start-up, Orvio now waits for it (with progress) before opening, so Movies and Series are complete and nothing keeps loading afterwards.\n- \"Continue with saved list\" skips the wait if your provider is slow.\n"
 }
