@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.19/Orvio-0.19.apk",
-  "sizeBytes": 13481237,
-  "sha256": "748aa0ca7ea01d1494e2e6229082d328a0ec06f6f4a1ea283482bb4de1f15d59",
+  "versionCode": 20,
+  "versionName": "0.20",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.20/Orvio-0.20.apk",
+  "sizeBytes": 13556442,
+  "sha256": "0d5d1736d5ae23383ac0ad1927fd1eae6f1dd6bda1d69dca679fec486c6d3653",
   "minSdk": 26,
-  "notes": "# Orvio 0.19\n\n- Trending movies and Trending series on Home, above Recently added, on phone and TV. Renewed every day from what people are watching this week (Wikipedia's most read films and series, plus Apple's Dutch film chart), showing only titles that are in your playlist. The Home banner leads with them too.\n- Your account now syncs between phone and TV: profiles, Recently watched and resume points, favourites, recent channels, settings and playlists. Sign in on the TV with the same account and everything is there.\n- Smooth transitions between tabs and pages, a light press effect on posters and buttons, and smoothly changing tab colours (from 0.18).\n"
+  "notes": "# Orvio 0.20\n\n- Phone Live TV: compact layout with eight channel rows, category filters, improved player controls and clearer channel logos.\n- Android TV series: a dedicated two-column layout with the complete description directly on the page, remote scrolling for long descriptions and properly proportioned episode images.\n- Android TV navigation: Up from the first Home row returns to the top tabs. View all buttons now have a clear gold focus outline.\n- Trending movies and series: more available titles, separate source caches and recovery after temporary chart failures.\n- Playlist refresh: retry unexpectedly empty sections and recover large movie lists through provider categories. Failed refreshes keep the saved library. Empty Movies and Series pages now offer Refresh playlist.\n\nIf Movies currently shows 0, refresh your playlist after installing this update.\n"
 }
