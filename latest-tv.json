@@ -1,9 +1,9 @@
 {
-  "versionCode": 1031,
-  "versionName": "0.31",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.31/Orvio-TV-0.31.apk",
+  "versionCode": 1032,
+  "versionName": "0.32",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.32/Orvio-TV-0.32.apk",
   "sizeBytes": 15138381,
-  "sha256": "c1fea2498b29c1a146234080b6124c4c40dd429f9fe5b2c938ae1d99f19944fc",
+  "sha256": "a347706975102f3d9fa71d3ec725de6152bb7f4532d178cbfd87fe075945a1d0",
   "minSdk": 26,
-  "notes": "# Orvio 0.31\n\n- TV player: Back leaves the player in one press.\n- TV player: the button you are on has a gold ring, OK presses it, and the arrows move between the player's buttons.\n- TV player: Left and Right jump one minute back or forward in films and episodes, and in live TV when the channel allows rewinding. Down goes straight to the subtitles button.\n- Live TV: when you pause a channel, Go live appears; press play to continue live.\n- Live TV, Movies and Series open without the remote stalling, and navigation sounds play straight away.\n"
+  "notes": "# Orvio 0.32\n\n- TV player: OK while watching shows the info screen (what you are watching, the buttons and the time bar) instead of pausing straight away; OK again pauses.\n- TV player: the arrows move between the buttons. Go down to the time bar (it gets a gold outline) and Left/Right jump one minute back or forward. Live TV still zaps with up/down.\n- Profiles: avatars that were cut off in the picture set are no longer offered; a profile that already uses one keeps it.\n"
 }
