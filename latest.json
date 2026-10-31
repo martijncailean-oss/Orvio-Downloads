@@ -1,9 +1,9 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.34/Orvio-0.34.apk",
-  "sizeBytes": 15868057,
-  "sha256": "d1c4d275ea816cb51b75e52bb90de5534974f7dcbcdf9f914099c89781bc637f",
+  "versionCode": 35,
+  "versionName": "0.35",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.35/Orvio-0.35.apk",
+  "sizeBytes": 16012569,
+  "sha256": "d1760fa84399b2def1baf570a9f7ddc6cfd845e5eb4e04a3ae7aa9490c1431c4",
   "minSdk": 26,
-  "notes": "# Orvio 0.34\n\n- New start-up animation: the Orvio logo film. Press any button or tap to skip it; your library keeps loading behind it.\n- Kids profiles: Settings only shows Profiles, Playback, Appearance, Sound and About. Kids cannot change playlists, delete downloads, sign out or install updates.\n- Profile locks: once a grown-up profile has a PIN, managing or adding profiles asks for it, and editing someone else's locked profile asks for that profile's PIN.\n- Fixed: Settings on TV closed the app for a kids profile.\n- Settings cards and buttons respond with a short animation when pressed, and the refresh icon turns while checking for updates or refreshing playlists.\n"
+  "notes": "# Orvio 0.35\n\n- Smoother start-up animation: the Orvio logo now glows directly on the app's background, without a visible video frame or a black flash, and flows straight into the app.\n- The start-up animation always plays to the end; your library loads behind it.\n"
 }
