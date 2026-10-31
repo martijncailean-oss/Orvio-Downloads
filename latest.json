@@ -1,9 +1,9 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.32/Orvio-0.32.apk",
+  "versionCode": 33,
+  "versionName": "0.33",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.33/Orvio-0.33.apk",
   "sizeBytes": 15138301,
-  "sha256": "8b0042c62b886623da3b067387c5828d3169ac162c3e6e555063389e2158a831",
+  "sha256": "c8130e5089e5406c605349bde719ad1c3f706eccd780b523dbf299fd52e23c87",
   "minSdk": 26,
-  "notes": "# Orvio 0.32\n\n- TV player: OK while watching shows the info screen (what you are watching, the buttons and the time bar) instead of pausing straight away; OK again pauses.\n- TV player: the arrows move between the buttons. Go down to the time bar (it gets a gold outline) and Left/Right jump one minute back or forward. Live TV still zaps with up/down.\n- Profiles: avatars that were cut off in the picture set are no longer offered; a profile that already uses one keeps it.\n"
+  "notes": "# Orvio 0.33\n\n- Back on the Home screen asks \"Close Orvio?\" before the app closes. On TV the first Back still moves to the top bar; Cancel is selected, so nothing closes by accident.\n- TV Home: Clear list and View all are clear buttons, and pressing up from a Recently watched card reaches Clear list (up again goes to the top bar).\n"
 }
