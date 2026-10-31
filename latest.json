@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
-  "versionName": "0.35",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.35/Orvio-0.35.apk",
-  "sizeBytes": 16012569,
-  "sha256": "d1760fa84399b2def1baf570a9f7ddc6cfd845e5eb4e04a3ae7aa9490c1431c4",
+  "versionCode": 36,
+  "versionName": "0.36",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.36/Orvio-0.36.apk",
+  "sizeBytes": 16012565,
+  "sha256": "c653a007d2e505476e91a85697533b215868471389ff4e57c052d80b7c0475ea",
   "minSdk": 26,
-  "notes": "# Orvio 0.35\n\n- Smoother start-up animation: the Orvio logo now glows directly on the app's background, without a visible video frame or a black flash, and flows straight into the app.\n- The start-up animation always plays to the end; your library loads behind it.\n"
+  "notes": "# Orvio 0.36\n\n- Security: account e-mail links are only accepted for a sign-up or password reset you started on this device, for that same address. Another app or web page can no longer sign Orvio into a different account.\n- Security: after five wrong profile PINs Orvio waits 30 seconds before the next try, and longer after that.\n- The start-up animation plays again every time you open Orvio, also right after closing it.\n- Live TV no longer starts a channel by itself: phones open the provider's categories first, and on TV the remote starts in the category list.\n- Phones: channel numbers of four digits or more stay on one line, and an empty Live TV player says \"Choose a channel to start watching\".\n"
 }
