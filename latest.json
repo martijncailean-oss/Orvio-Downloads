@@ -1,9 +1,9 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.37/Orvio-0.37.apk",
+  "versionCode": 38,
+  "versionName": "0.38",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.38/Orvio-0.38.apk",
   "sizeBytes": 15154545,
-  "sha256": "b934b8a4fa309355157ed9e62b834c9687053942903fac140f56f71588e0eda7",
+  "sha256": "5a504ed2daf5fc13316f1c19c9eaa87c368c0f19a2e30cd959a5beca3f23c19b",
   "minSdk": 26,
-  "notes": "# Orvio 0.37\n\n- New start-up animation, drawn by Orvio itself instead of a video: sharp on every screen, smooth at your screen's frame rate and shorter (3 seconds). The logo blooms with a golden glow and circling sparks, then fades straight into the app.\n- It also plays when Android's animations are switched off, and it starts only once the screen is ready, so you always see it from the beginning.\n"
+  "notes": "# Orvio 0.38\n\n- Many more titles now show an IMDb and Rotten Tomatoes score, and they appear faster: Orvio's rating service now has scores for about 53,000 films and series ready, with more Rotten Tomatoes scores added every night.\n- Scores saved before this update are refreshed once, so you see the new ones straight away. Your choice to show or hide scores is kept.\n- A title without a Rotten Tomatoes score checks again after a few days instead of a month.\n"
 }
