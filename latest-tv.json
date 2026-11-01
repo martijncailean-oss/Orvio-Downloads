@@ -1,9 +1,9 @@
 {
-  "versionCode": 1039,
-  "versionName": "0.39",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.39/Orvio-TV-0.39.apk",
+  "versionCode": 1040,
+  "versionName": "0.40",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.40/Orvio-TV-0.40.apk",
   "sizeBytes": 15203877,
-  "sha256": "bffa63b58c9819debb18fe8e5cd010d25b528543d729db098c577c2ef7affcf2",
+  "sha256": "8944e8d7d876fc5e30b4d2d37957cd67da6073437cd90393eb2aedec65b55ce3",
   "minSdk": 26,
-  "notes": "# Orvio 0.39\n\n- Sign in on your TV with your phone: the TV shows a code and a QR code. On your phone, go to Settings \u203a Account \u203a Sign in a TV and enter the code and your password. No more typing with the remote.\n- Delete your account from Settings \u203a Account. This removes your account and everything synced to it; what is on your device stays.\n- Mark films, series and episodes as watched. Finishing one marks it automatically, and \"Hide watched\" (TV) or \"Unwatched\" (phone) keeps your catalog fresh. On TV, hold OK on an episode to mark it.\n- Get a notification when a series you follow (a favourite, or one you are watching) has a new episode.\n- Every film and series page now has a Trailer button.\n- On Google TV and Android TV, titles you are halfway through appear in \"Continue watching\" on the home screen.\n- Live TV reconnects by itself when a stream drops or stalls.\n- Crashes and streams that fail to play are reported anonymously, so problems can be fixed faster. No names, e-mail addresses or stream links are sent.\n- A new look for buttons, filters, fields and messages, with smooth animations and a glow on the focused button on TV.\n"
+  "notes": "# Orvio 0.40\n\n- TV sign-in works with the remote straight away: the button and the e-mail field are selected when the screen opens, and Back returns from the e-mail form to the code screen.\n- The e-mail field shows the e-mail keyboard (with @).\n- Finished films leave \"Recently watched\". Watching a film or episode again brings it back until you finish it.\n- The Trailer button on TV series pages is no longer hidden behind the episode list.\n- Buttons with \u2661 or \u2713 are now the same height as the others.\n- Picture and sound badges in the player line up neatly on the right.\n- Profiles pop in and lift with a warm glow when selected; the phone banner button and page dots have a smoother look.\n- Live TV stops retrying after three quick failures instead of retrying forever.\n- Security: signing out now also ends your session on the server, a TV code that could not be used no longer leaves a session behind, and the \"Sign in a TV\" screen warns to only use a code from your own TV.\n"
 }
