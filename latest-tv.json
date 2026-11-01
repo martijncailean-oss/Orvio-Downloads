@@ -1,9 +1,9 @@
 {
-  "versionCode": 1038,
-  "versionName": "0.38",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.38/Orvio-TV-0.38.apk",
-  "sizeBytes": 15154625,
-  "sha256": "f654e705310508900ac77c361f06c1a1c59afa389517816a7ff0fae6eabafe57",
+  "versionCode": 1039,
+  "versionName": "0.39",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.39/Orvio-TV-0.39.apk",
+  "sizeBytes": 15203877,
+  "sha256": "bffa63b58c9819debb18fe8e5cd010d25b528543d729db098c577c2ef7affcf2",
   "minSdk": 26,
-  "notes": "# Orvio 0.38\n\n- Many more titles now show an IMDb and Rotten Tomatoes score, and they appear faster: Orvio's rating service now has scores for about 53,000 films and series ready, with more Rotten Tomatoes scores added every night.\n- Scores saved before this update are refreshed once, so you see the new ones straight away. Your choice to show or hide scores is kept.\n- A title without a Rotten Tomatoes score checks again after a few days instead of a month.\n"
+  "notes": "# Orvio 0.39\n\n- Sign in on your TV with your phone: the TV shows a code and a QR code. On your phone, go to Settings \u203a Account \u203a Sign in a TV and enter the code and your password. No more typing with the remote.\n- Delete your account from Settings \u203a Account. This removes your account and everything synced to it; what is on your device stays.\n- Mark films, series and episodes as watched. Finishing one marks it automatically, and \"Hide watched\" (TV) or \"Unwatched\" (phone) keeps your catalog fresh. On TV, hold OK on an episode to mark it.\n- Get a notification when a series you follow (a favourite, or one you are watching) has a new episode.\n- Every film and series page now has a Trailer button.\n- On Google TV and Android TV, titles you are halfway through appear in \"Continue watching\" on the home screen.\n- Live TV reconnects by itself when a stream drops or stalls.\n- Crashes and streams that fail to play are reported anonymously, so problems can be fixed faster. No names, e-mail addresses or stream links are sent.\n- A new look for buttons, filters, fields and messages, with smooth animations and a glow on the focused button on TV.\n"
 }
