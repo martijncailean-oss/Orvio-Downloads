@@ -1,9 +1,9 @@
 {
-  "versionCode": 1046,
-  "versionName": "0.46",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.46/Orvio-TV-0.46.apk",
+  "versionCode": 1047,
+  "versionName": "0.47",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.47/Orvio-TV-0.47.apk",
   "sizeBytes": 15292519,
-  "sha256": "0763660c2e630e2a4a3399f5036ec9f46f8c099d364a75c1877c05304d9d48e8",
+  "sha256": "92793bc7e7aa7a105ff58f784cbfd2e44330d01632def2df89ce924bc0c00892",
   "minSdk": 26,
-  "notes": "# Orvio 0.46\n\n- Live TV on a phone: in fullscreen, swipe up for the next channel and down for the previous one.\n- The \"Zap\" hint is no longer shown on phones (it stays on TV, where the remote zaps).\n"
+  "notes": "# Orvio 0.47\n\n- Home no longer shows Indian and other regional films in the trending rows and banner; they stay in your library and search.\n"
 }
