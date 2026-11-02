@@ -1,9 +1,9 @@
 {
-  "versionCode": 1041,
-  "versionName": "0.41",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.41/Orvio-TV-0.41.apk",
-  "sizeBytes": 15203873,
-  "sha256": "c0d96c6cd89c26e0f7d5fb18beb4cf2201cf0c37c563b529b252942bb3b40f0d",
+  "versionCode": 1042,
+  "versionName": "0.42",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.42/Orvio-TV-0.42.apk",
+  "sizeBytes": 15220257,
+  "sha256": "55f8d2b2ec1a3e1522b104cfa03a7e9c11918de5511bece31485ddc56f4aba31",
   "minSdk": 26,
-  "notes": "# Orvio 0.41\n\n- A cleaner series page on phones: one wide play button, with round Trailer, Watched and Favorite buttons under it, and a larger title.\n"
+  "notes": "# Orvio 0.42\n\n- The Trailer button now plays the real trailer straight away, also when your provider does not supply one. Orvio finds it on TMDB and only searches YouTube when no trailer is known.\n"
 }
