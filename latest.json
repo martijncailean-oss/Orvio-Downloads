@@ -1,9 +1,9 @@
 {
-  "versionCode": 43,
-  "versionName": "0.43",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.43/Orvio-0.43.apk",
-  "sizeBytes": 15220193,
-  "sha256": "be03bf8d4d7e3f6c0b16034993910d65e95e433fed8914645976c95c98281508",
+  "versionCode": 44,
+  "versionName": "0.44",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.44/Orvio-0.44.apk",
+  "sizeBytes": 15276051,
+  "sha256": "136a00468c9f53c07812476a9af288204413fdef76e1077e58b768030f19ce0b",
   "minSdk": 26,
-  "notes": "# Orvio 0.43\n\n- Film and series pages show the IMDb and Rotten Tomatoes scores under the title.\n- Scores are now also found for titles your provider lists under a translated or original name (for example \"Hausu\" or \"La casa de papel\").\n- With more than one playlist, Play and Resume ask which version to watch: each shows its quality (4K, 1080p, 720p, HDR), language and provider. Qualities are remembered, so the list fills in at once next time.\n- Series pages let you pick which playlist the episodes come from, so another provider can stand in when one is down.\n- Live TV shows one playlist at a time; pick the playlist at the top of the channel list.\n- Faster start with two playlists: Home opens on your main playlist straight away and the other joins a moment later.\n- Films and series watched from your second playlist now appear in \"Recently watched\".\n- Home no longer flashes empty after a background playlist update.\n"
+  "notes": "# Orvio 0.44\n\n- Newer video player (Media3 1.11.1) with the latest playback fixes; surround sound (AC3, E-AC3, DTS) still plays on devices that cannot decode it themselves.\n- The password field is the same size as the other fields.\n- With more than one playlist, Live TV opens on the channel list instead of the categories.\n- The playlist buttons in Live TV are small and quiet: only the chosen playlist is lit.\n"
 }
