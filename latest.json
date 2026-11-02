@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "0.45",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.45/Orvio-0.45.apk",
-  "sizeBytes": 15292439,
-  "sha256": "bc7a7e98ebea34c006f7a6a05ead22549fbcfe7fd77141383b22a17d834a58db",
+  "versionCode": 46,
+  "versionName": "0.46",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.46/Orvio-0.46.apk",
+  "sizeBytes": 15292435,
+  "sha256": "2543715e0104ae3f43c95daef7ea8ab7b5c0d5f117fc35a4473c58d289b2e09b",
   "minSdk": 26,
-  "notes": "# Orvio 0.45\n\n- On phones the live channel info sits at the bottom of the picture instead of the middle.\n- The stream details (quality, resolution, frame rate, codecs) are small, dark labels; the quality is shown in gold.\n"
+  "notes": "# Orvio 0.46\n\n- Live TV on a phone: in fullscreen, swipe up for the next channel and down for the previous one.\n- The \"Zap\" hint is no longer shown on phones (it stays on TV, where the remote zaps).\n"
 }
