@@ -1,9 +1,9 @@
 {
-  "versionCode": 1040,
-  "versionName": "0.40",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.40/Orvio-TV-0.40.apk",
-  "sizeBytes": 15203877,
-  "sha256": "8944e8d7d876fc5e30b4d2d37957cd67da6073437cd90393eb2aedec65b55ce3",
+  "versionCode": 1041,
+  "versionName": "0.41",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.41/Orvio-TV-0.41.apk",
+  "sizeBytes": 15203873,
+  "sha256": "c0d96c6cd89c26e0f7d5fb18beb4cf2201cf0c37c563b529b252942bb3b40f0d",
   "minSdk": 26,
-  "notes": "# Orvio 0.40\n\n- TV sign-in works with the remote straight away: the button and the e-mail field are selected when the screen opens, and Back returns from the e-mail form to the code screen.\n- The e-mail field shows the e-mail keyboard (with @).\n- Finished films leave \"Recently watched\". Watching a film or episode again brings it back until you finish it.\n- The Trailer button on TV series pages is no longer hidden behind the episode list.\n- Buttons with \u2661 or \u2713 are now the same height as the others.\n- Picture and sound badges in the player line up neatly on the right.\n- Profiles pop in and lift with a warm glow when selected; the phone banner button and page dots have a smoother look.\n- Live TV stops retrying after three quick failures instead of retrying forever.\n- Security: signing out now also ends your session on the server, a TV code that could not be used no longer leaves a session behind, and the \"Sign in a TV\" screen warns to only use a code from your own TV.\n"
+  "notes": "# Orvio 0.41\n\n- A cleaner series page on phones: one wide play button, with round Trailer, Watched and Favorite buttons under it, and a larger title.\n"
 }
