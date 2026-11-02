@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "0.44",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.44/Orvio-0.44.apk",
-  "sizeBytes": 15276051,
-  "sha256": "136a00468c9f53c07812476a9af288204413fdef76e1077e58b768030f19ce0b",
+  "versionCode": 45,
+  "versionName": "0.45",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.45/Orvio-0.45.apk",
+  "sizeBytes": 15292439,
+  "sha256": "bc7a7e98ebea34c006f7a6a05ead22549fbcfe7fd77141383b22a17d834a58db",
   "minSdk": 26,
-  "notes": "# Orvio 0.44\n\n- Newer video player (Media3 1.11.1) with the latest playback fixes; surround sound (AC3, E-AC3, DTS) still plays on devices that cannot decode it themselves.\n- The password field is the same size as the other fields.\n- With more than one playlist, Live TV opens on the channel list instead of the categories.\n- The playlist buttons in Live TV are small and quiet: only the chosen playlist is lit.\n"
+  "notes": "# Orvio 0.45\n\n- On phones the live channel info sits at the bottom of the picture instead of the middle.\n- The stream details (quality, resolution, frame rate, codecs) are small, dark labels; the quality is shown in gold.\n"
 }
