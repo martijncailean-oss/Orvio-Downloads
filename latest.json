@@ -1,9 +1,9 @@
 {
-  "versionCode": 47,
-  "versionName": "0.47",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.47/Orvio-0.47.apk",
+  "versionCode": 48,
+  "versionName": "0.48",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.48/Orvio-0.48.apk",
   "sizeBytes": 15292439,
-  "sha256": "840a5af519b9eeed5bb5a964ed9011b3da4e0b17065ff2f22934c7d47e19c5f7",
+  "sha256": "ede9b78809c6ff6aec2326236918d9b6dcecd7df544a1f98ca423ee5b2aa39ca",
   "minSdk": 26,
-  "notes": "# Orvio 0.47\n\n- Home no longer shows Indian and other regional films in the trending rows and banner; they stay in your library and search.\n"
+  "notes": "# Orvio 0.48\n\n- Your languages first: Home, \"Recently added\", Movies, Series, trending and the version list show Dutch, English and multi-language titles first. Choose your languages in Settings \u203a Appearance \u203a Languages; other languages stay in your library and search.\n- Categories are grouped under their language (Dutch, English\u2026), your languages first, and keep their language tag (\"NL \u00b7 NETFLIX\").\n- A new Home banner with a wide picture and the film's own logo, on phones and TVs. On TV it has Watch and More info buttons.\n- A clearer filter bar for Movies and Series: Categories, Genres (with how many are chosen), Favorites, Unwatched and Clear.\n- Live TV on phones: the channel you watched last is one tap away, and channel rows are larger and easier to read.\n- Faster: title handling is twice as fast, trending rows appear sooner, and saving your library uses every processor core.\n- Fixed: the app could run out of memory while starting with a very large library.\n"
 }
