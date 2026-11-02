@@ -1,9 +1,9 @@
 {
-  "versionCode": 42,
-  "versionName": "0.42",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.42/Orvio-0.42.apk",
+  "versionCode": 43,
+  "versionName": "0.43",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.43/Orvio-0.43.apk",
   "sizeBytes": 15220193,
-  "sha256": "e276f5dfcfd204927ce21e80fc8744d8f4cd3a9b3b01c98e7ef4458261f0a8c4",
+  "sha256": "be03bf8d4d7e3f6c0b16034993910d65e95e433fed8914645976c95c98281508",
   "minSdk": 26,
-  "notes": "# Orvio 0.42\n\n- The Trailer button now plays the real trailer straight away, also when your provider does not supply one. Orvio finds it on TMDB and only searches YouTube when no trailer is known.\n"
+  "notes": "# Orvio 0.43\n\n- Film and series pages show the IMDb and Rotten Tomatoes scores under the title.\n- Scores are now also found for titles your provider lists under a translated or original name (for example \"Hausu\" or \"La casa de papel\").\n- With more than one playlist, Play and Resume ask which version to watch: each shows its quality (4K, 1080p, 720p, HDR), language and provider. Qualities are remembered, so the list fills in at once next time.\n- Series pages let you pick which playlist the episodes come from, so another provider can stand in when one is down.\n- Live TV shows one playlist at a time; pick the playlist at the top of the channel list.\n- Faster start with two playlists: Home opens on your main playlist straight away and the other joins a moment later.\n- Films and series watched from your second playlist now appear in \"Recently watched\".\n- Home no longer flashes empty after a background playlist update.\n"
 }
