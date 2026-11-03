@@ -1,9 +1,9 @@
 {
-  "versionCode": 1049,
-  "versionName": "0.49",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.49/Orvio-TV-0.49.apk",
-  "sizeBytes": 15309059,
-  "sha256": "89e2abd1368562a55976af8b6c1edce373457c2884604018a371d342ecd6d644",
+  "versionCode": 1050,
+  "versionName": "0.50",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.50/Orvio-TV-0.50.apk",
+  "sizeBytes": 15309063,
+  "sha256": "d9f1bf0fcf5669de71f5989c875e894525701b91076a756d2b908ecea750a728",
   "minSdk": 26,
-  "notes": "# Orvio 0.49\n\n- Catch-up works again: channels that keep recordings show \u27f2. On TV, hold OK on a channel for Catch-up, programme info and favourites; on phones, use the \u27f2 button next to the playing channel. After this update Orvio refreshes your playlist once in the background to find these channels.\n- Duplicate entries in the catch-up list are merged.\n- Languages shown first now follow your device's language and country instead of always Dutch; entries that are not languages (such as \"UFC\") left the list. Your own choice is kept.\n- TV sign-in: the e-mail and password fields are the same, more compact size.\n"
+  "notes": "# Orvio 0.50\n\n- Rewind within the programme that is on: on channels with catch-up (\u27f2), the yellow programme bar now works like a video timeline. On phones, tap or drag it. On TV, hold OK on the playing channel and choose \"Rewind this programme\", or press \u25c0 \u25b6 in full screen; each press moves a minute and it plays once you stop. The far right is live again, and \"\u22127 min \u00b7 Back to live\" (or \"Go live\" in full screen) takes you straight back.\n- Pausing while rewound, or a brief connection hiccup, now continues where you were instead of jumping.\n- Phone and tablet in landscape: the top bar and right-hand column no longer slide under the system bars, and channel names in the list have more room.\n"
 }
