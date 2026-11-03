@@ -1,9 +1,9 @@
 {
-  "versionCode": 1050,
-  "versionName": "0.50",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.50/Orvio-TV-0.50.apk",
-  "sizeBytes": 15309063,
-  "sha256": "d9f1bf0fcf5669de71f5989c875e894525701b91076a756d2b908ecea750a728",
+  "versionCode": 1051,
+  "versionName": "0.51",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.51/Orvio-TV-0.51.apk",
+  "sizeBytes": 15341831,
+  "sha256": "a9570a2341315ecfdf2fed69263398c721e0c919a859b76e8623241a3d1945f7",
   "minSdk": 26,
-  "notes": "# Orvio 0.50\n\n- Rewind within the programme that is on: on channels with catch-up (\u27f2), the yellow programme bar now works like a video timeline. On phones, tap or drag it. On TV, hold OK on the playing channel and choose \"Rewind this programme\", or press \u25c0 \u25b6 in full screen; each press moves a minute and it plays once you stop. The far right is live again, and \"\u22127 min \u00b7 Back to live\" (or \"Go live\" in full screen) takes you straight back.\n- Pausing while rewound, or a brief connection hiccup, now continues where you were instead of jumping.\n- Phone and tablet in landscape: the top bar and right-hand column no longer slide under the system bars, and channel names in the list have more room.\n"
+  "notes": "# Orvio 0.51\n\n- TV guide: a full programme grid with channels down and time across, from a day back to a day ahead. On TV, open it with \"\u25a6 TV guide\" in the left column, hold OK on a channel and choose \"TV guide\", or press the remote's GUIDE key. On phones, tap \"\u25a6 Guide\" next to the channel search. It shows the same channels as your list.\n- On TV, \u25c0 \u25b6 moves from programme to programme and \u25b2 \u25bc changes channel. OK watches what is on now, replays a past programme on channels with catch-up (\u27f2), and shows details for programmes still to come. Hold OK for the channel options. Back returns to the channel list on the channel you were on.\n- On phones, swipe through time, tap to watch, long-press for details, and tap \"Now\" to jump back to the current time.\n"
 }
