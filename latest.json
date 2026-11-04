@@ -1,9 +1,9 @@
 {
-  "versionCode": 52,
-  "versionName": "0.52",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.52/Orvio-0.52.apk",
-  "sizeBytes": 15341747,
-  "sha256": "b3830013e1fdd5b2168a42150feb2927765d6b30ac0baf621fd1c28e271e2d4a",
+  "versionCode": 53,
+  "versionName": "0.53",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.53/Orvio-0.53.apk",
+  "sizeBytes": 15341751,
+  "sha256": "624631360cf1416c9fdc1d2066d018c5e87c435ba7cf1333bc8ae66de30de85f",
   "minSdk": 26,
-  "notes": "# Orvio 0.52\n\n- App updates now shows how far a download is, with a progress bar and the megabytes done, or what it is waiting for.\n- With \"Use mobile data\" on, updates also download while your phone is roaming. Before, they waited without saying so.\n- Checking for updates during a download no longer stays on \"Checking for updates\u2026\".\n"
+  "notes": "# Orvio 0.53\n\n- Tablets: held upright, Live TV now shows the picture across the full width with the channel list below it. Menus, buttons and channel rows are bigger and easier to tap, and movie and series grids fit the screen with more readable titles.\n- On tablets, a long press on a channel opens its options: catch-up, programme info, TV guide and favorites.\n- Fixed a crash in Catch-up on channels where the provider lists two programmes at the same time.\n"
 }
