@@ -1,9 +1,9 @@
 {
-  "versionCode": 53,
-  "versionName": "0.53",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.53/Orvio-0.53.apk",
-  "sizeBytes": 15341751,
-  "sha256": "624631360cf1416c9fdc1d2066d018c5e87c435ba7cf1333bc8ae66de30de85f",
+  "versionCode": 54,
+  "versionName": "0.54",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.54/Orvio-0.54.apk",
+  "sizeBytes": 15358131,
+  "sha256": "a2a73e501ec1be2fbac9f74da9f714896d674550bd66a42e6f5f3cffbdbad766",
   "minSdk": 26,
-  "notes": "# Orvio 0.53\n\n- Tablets: held upright, Live TV now shows the picture across the full width with the channel list below it. Menus, buttons and channel rows are bigger and easier to tap, and movie and series grids fit the screen with more readable titles.\n- On tablets, a long press on a channel opens its options: catch-up, programme info, TV guide and favorites.\n- Fixed a crash in Catch-up on channels where the provider lists two programmes at the same time.\n"
+  "notes": "# Orvio 0.54\n\n- Choose a version now shows what is really inside: next to the quality (4K, 1080p\u2026), each version lists its audio and subtitle languages, with your languages in gold. Versions are grouped by language, yours first.\n- Your languages come first: in a film with several audio tracks, Orvio now plays your language instead of the file's default track.\n- New subtitle setting, Automatic: when a film does not speak your first language and has subtitles in it, they go on. Choose Off in Settings \u203a Playback to keep subtitles off.\n- Film and series pages list the language versions on offer, and the phone player shows the audio language that is playing.\n"
 }
