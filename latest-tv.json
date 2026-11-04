@@ -1,9 +1,9 @@
 {
-  "versionCode": 1054,
-  "versionName": "0.54",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.54/Orvio-TV-0.54.apk",
+  "versionCode": 1055,
+  "versionName": "0.55",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.55/Orvio-TV-0.55.apk",
   "sizeBytes": 15358215,
-  "sha256": "7ddd7efb5e60e78995a80757abbe871e3fd29e4e4f217fc63ecc1c14cc4b99fe",
+  "sha256": "7b2458f07ff1b7c3afe4498c8ae3803c3508b83234e35f1518915074b8642bd0",
   "minSdk": 26,
-  "notes": "# Orvio 0.54\n\n- Choose a version now shows what is really inside: next to the quality (4K, 1080p\u2026), each version lists its audio and subtitle languages, with your languages in gold. Versions are grouped by language, yours first.\n- Your languages come first: in a film with several audio tracks, Orvio now plays your language instead of the file's default track.\n- New subtitle setting, Automatic: when a film does not speak your first language and has subtitles in it, they go on. Choose Off in Settings \u203a Playback to keep subtitles off.\n- Film and series pages list the language versions on offer, and the phone player shows the audio language that is playing.\n"
+  "notes": "# Orvio 0.55\n\n- See where a title comes from: film and series pages say \"From:\" with your providers, and Choose a version names the provider on each row when more than one offers it.\n- Search by provider: with two or more playlists, Search has a row to pick one provider or All providers. A provider's search also finds titles another playlist has too.\n- Playlist names are unique now: Orvio asks for another name when you already use one, and new playlists start with a free name.\n"
 }
