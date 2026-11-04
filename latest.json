@@ -1,9 +1,9 @@
 {
-  "versionCode": 51,
-  "versionName": "0.51",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.51/Orvio-0.51.apk",
+  "versionCode": 52,
+  "versionName": "0.52",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.52/Orvio-0.52.apk",
   "sizeBytes": 15341747,
-  "sha256": "ac8b4688c5053f16378b335ad0040c44777acc67715892c51b46abb21e5879ff",
+  "sha256": "b3830013e1fdd5b2168a42150feb2927765d6b30ac0baf621fd1c28e271e2d4a",
   "minSdk": 26,
-  "notes": "# Orvio 0.51\n\n- TV guide: a full programme grid with channels down and time across, from a day back to a day ahead. On TV, open it with \"\u25a6 TV guide\" in the left column, hold OK on a channel and choose \"TV guide\", or press the remote's GUIDE key. On phones, tap \"\u25a6 Guide\" next to the channel search. It shows the same channels as your list.\n- On TV, \u25c0 \u25b6 moves from programme to programme and \u25b2 \u25bc changes channel. OK watches what is on now, replays a past programme on channels with catch-up (\u27f2), and shows details for programmes still to come. Hold OK for the channel options. Back returns to the channel list on the channel you were on.\n- On phones, swipe through time, tap to watch, long-press for details, and tap \"Now\" to jump back to the current time.\n"
+  "notes": "# Orvio 0.52\n\n- App updates now shows how far a download is, with a progress bar and the megabytes done, or what it is waiting for.\n- With \"Use mobile data\" on, updates also download while your phone is roaming. Before, they waited without saying so.\n- Checking for updates during a download no longer stays on \"Checking for updates\u2026\".\n"
 }
