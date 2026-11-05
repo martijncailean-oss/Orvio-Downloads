@@ -1,9 +1,9 @@
 {
-  "versionCode": 106,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.6/Orvio-1.6.apk",
+  "versionCode": 107,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.7/Orvio-1.7.apk",
   "sizeBytes": 11813136,
-  "sha256": "fd1c79c612b9732bcceccbf9ee91709c48a6918bc34f7ed905bd1ef73835152e",
+  "sha256": "293681eec8ee11fa63217739c02e27926f0b3ca05c1b47ffeb65b70f7b9f4dde",
   "minSdk": 26,
-  "notes": "# Orvio 1.6\n\n- Mijn lijst is weg: favorieten doen hetzelfde. Wat in Mijn lijst stond, staat nu bij je favorieten.\n- Je favoriete films en series staan als rij op Start.\n"
+  "notes": "# Orvio 1.7\n\n- De korte opstartanimatie loopt weer goed: het logo groeit eerst en verdwijnt daarna, net als de volledige versie.\n"
 }
