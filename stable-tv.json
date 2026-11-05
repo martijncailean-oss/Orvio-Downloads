@@ -1,9 +1,9 @@
 {
-  "versionCode": 1102,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.2/Orvio-TV-1.2.apk",
+  "versionCode": 1103,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.3/Orvio-TV-1.3.apk",
   "sizeBytes": 15798707,
-  "sha256": "211f07c2a8c7e459791ad84e426d7cedae34f1baba3bf9e2645db6b254f2c123",
+  "sha256": "10a4d1ea0f6f7b805eac4040fb6899db9fb4244f71e63342621ac070e4baf2a3",
   "minSdk": 26,
-  "notes": "# Orvio 1.2\n\n- Seasonal themes: at times of the year Orvio gets its own start-up, colours, animations and sounds.\n- Fixed a crash when reopening the app right after closing it.\n"
+  "notes": "# Orvio 1.3\n\n- The startup sound now plays at media volume, so you also hear it with Android's touch sounds off or your phone on vibrate. The Interface sounds switch still turns it off.\n"
 }
