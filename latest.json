@@ -1,9 +1,9 @@
 {
-  "versionCode": 55,
-  "versionName": "0.55",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.55/Orvio-0.55.apk",
-  "sizeBytes": 15358135,
-  "sha256": "79c706e3ad3484fae35a5b5d5367c0f66fb5cdefc27546264486c684c4a1ec47",
+  "versionCode": 56,
+  "versionName": "0.56",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v0.56/Orvio-0.56.apk",
+  "sizeBytes": 15456440,
+  "sha256": "a5f5008e5cb1d5d1330468e8936fb7dfc90c210e6474e1e0ad85931cf82088f3",
   "minSdk": 26,
-  "notes": "# Orvio 0.55\n\n- See where a title comes from: film and series pages say \"From:\" with your providers, and Choose a version names the provider on each row when more than one offers it.\n- Search by provider: with two or more playlists, Search has a row to pick one provider or All providers. A provider's search also finds titles another playlist has too.\n- Playlist names are unique now: Orvio asks for another name when you already use one, and new playlists start with a free name.\n"
+  "notes": "# Orvio 0.56\n\n- Prepares your app for Orvio 1.0, which follows right after this update.\n"
 }
