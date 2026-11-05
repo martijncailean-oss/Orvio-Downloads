@@ -1,9 +1,9 @@
 {
-  "versionCode": 101,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.1/Orvio-1.1.apk",
-  "sizeBytes": 15564731,
-  "sha256": "c91c333d98ffcbcf3176ec5e4bba1684c0ae73535fe0ce0a89561e27cc0a5c3f",
+  "versionCode": 102,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.2/Orvio-1.2.apk",
+  "sizeBytes": 15798707,
+  "sha256": "1e6efe38185dbc234a13cf82cfec6df687929d6a2579961d338c08ec37d17a9d",
   "minSdk": 26,
-  "notes": "# Orvio 1.1\n\n- Choose a playlist in Movies and Series: with two or more playlists, a row lets you look through one of them or All playlists. All playlists is the default.\n- One playlist shows its own full list, also the titles another playlist already has.\n- After an update, the App updates page no longer says the update could not be verified.\n"
+  "notes": "# Orvio 1.2\n\n- Seasonal themes: at times of the year Orvio gets its own start-up, colours, animations and sounds.\n- Fixed a crash when reopening the app right after closing it.\n"
 }
