@@ -1,9 +1,9 @@
 {
-  "versionCode": 105,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.5/Orvio-1.5.apk",
+  "versionCode": 106,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.6/Orvio-1.6.apk",
   "sizeBytes": 11813136,
-  "sha256": "86cb03bf8e779010f45a27abf33f0e781d390d5ffe5d3ea17c0e9658a1162484",
+  "sha256": "fd1c79c612b9732bcceccbf9ee91709c48a6918bc34f7ed905bd1ef73835152e",
   "minSdk": 26,
-  "notes": "# Orvio 1.5\n\n- Nederlands: de app volgt de taal van je apparaat; kiezen kan bij Instellingen \u203a Weergave.\n- Sorteer films en series op nieuwste, jaar, score of A\u2013Z.\n- Mijn lijst: titels bewaren om later te kijken, los van favorieten, ook op Start.\n- Download een heel seizoen in \u00e9\u00e9n keer.\n- Intro overslaan bij series; de knop onthoudt per serie waar de intro eindigt.\n- Herinnering voor een programma in de tv-gids, vijf minuten vooraf.\n- Zoeken op acteur: typ een naam bij Zoeken.\n- Ondertitels online zoeken of een eigen bestand laden als de provider ze niet heeft.\n- Slaaptimer ook op de tv en bij live-tv, onder de knop Meer.\n- De volledige intro alleen bij de eerste start van de dag, daarna kort; een toets of tik slaat hem over.\n- Nieuwe thema's: Sinterklaas, Pasen en Koningsdag.\n- Live-tv op de telefoon opent direct op de zenders.\n- Op een tablet: posters die de eerste keren leeg bleven laden nu alsnog, de onderste balk verdwijnt tot je omhoog veegt, en meerdere schermen zijn netter.\n- Twee playlists laden tegelijk, en de download is een kwart kleiner.\n"
+  "notes": "# Orvio 1.6\n\n- Mijn lijst is weg: favorieten doen hetzelfde. Wat in Mijn lijst stond, staat nu bij je favorieten.\n- Je favoriete films en series staan als rij op Start.\n"
 }
