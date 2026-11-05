@@ -1,9 +1,9 @@
 {
-  "versionCode": 1103,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.3/Orvio-TV-1.3.apk",
+  "versionCode": 1104,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.4/Orvio-TV-1.4.apk",
   "sizeBytes": 15798707,
-  "sha256": "10a4d1ea0f6f7b805eac4040fb6899db9fb4244f71e63342621ac070e4baf2a3",
+  "sha256": "e0eafd57a20cdc7b12dbec076c20d88df032057353dff2c0039626f29dabc366",
   "minSdk": 26,
-  "notes": "# Orvio 1.3\n\n- The startup sound now plays at media volume, so you also hear it with Android's touch sounds off or your phone on vibrate. The Interface sounds switch still turns it off.\n"
+  "notes": "# Orvio 1.4\n\n- On a phone, the startup sound stays quiet when the phone is on silent or vibrate.\n- On a TV, the interface sounds always play, whatever Android's touch sounds are set to.\n"
 }
