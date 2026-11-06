@@ -1,9 +1,9 @@
 {
-  "versionCode": 112,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.12/Orvio-1.12.apk",
-  "sizeBytes": 11813136,
-  "sha256": "d172c8267eb463fc76a8f873fd7faea43e1d573d46cecc380c52be1468ad8c81",
+  "versionCode": 113,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.13/Orvio-1.13.apk",
+  "sizeBytes": 11829520,
+  "sha256": "e0fabb671d37dd0ab17a3e761625e57804f22d17f0d5aa4e1e53731e903698ff",
   "minSdk": 26,
-  "notes": "# Orvio 1.12\n\n- Bij een Xtream-playlist zie je wanneer je abonnement afloopt en hoeveel streams tegelijk mogen. Een week voor het einde krijg je een waarschuwing.\n- Mislukt een update, ook op de achtergrond, dan zie je dat en waarom bij de playlist.\n- Een heel grote bibliotheek op een apparaat met weinig geheugen laat de app niet meer crashen tijdens een update: de update stopt en je bibliotheek blijft staan.\n"
+  "notes": "# Orvio 1.13\n\nTV:\n- Terugspoelen tijdens live tv: je ziet nu meteen waar je bent, en OK brengt je met een knop terug naar live.\n- OK of rechts op een kanaal in de lijst gooit je niet meer ongevraagd terug naar live.\n- De afstandsbediening raakt niet meer kwijt in de pagina achter de speler.\n- Na het sluiten van de speler of een pagina kom je terug op waar je was.\n- Home: kleinere banner, omhoog en omlaag gaan rechtstreeks van rij naar rij, en de geselecteerde rij blijft goed in beeld.\n- \"Alles bekijken\" staat nu aan het eind van de rij.\n- Beter zichtbaar waar je bent, ook op gele knoppen en in de linkerkolom.\n\nAccount:\n- Na het bevestigen van je e-mail logt Orvio vanzelf in, ook als de pagina na de klik wit blijft of je de mail op een ander apparaat opent.\n"
 }
