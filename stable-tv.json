@@ -1,9 +1,9 @@
 {
-  "versionCode": 1107,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.7/Orvio-TV-1.7.apk",
+  "versionCode": 1108,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.8/Orvio-TV-1.8.apk",
   "sizeBytes": 11813136,
-  "sha256": "c7f4d4316583f23e969cc820eff9529cfe6824e487047055b100088ee6cc0ae2",
+  "sha256": "5073d012143de9ff810b555e84092d3695c5ca0c8d29eff5e5680125e6643a91",
   "minSdk": 26,
-  "notes": "# Orvio 1.7\n\n- De korte opstartanimatie loopt weer goed: het logo groeit eerst en verdwijnt daarna, net als de volledige versie.\n"
+  "notes": "# Orvio 1.8\n\n- De opstartanimatie speelt weer bij elke start helemaal af. Een toets of aanraking slaat hem nog steeds over.\n- Op TV breekt het loslaten van OK, waarmee je de app opent, de animatie niet meer af.\n"
 }
