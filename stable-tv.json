@@ -1,9 +1,9 @@
 {
-  "versionCode": 1113,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.13/Orvio-TV-1.13.apk",
+  "versionCode": 1114,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.14/Orvio-TV-1.14.apk",
   "sizeBytes": 11829520,
-  "sha256": "179f5150f63f08583e7fdaa5affeb777c4c0e4396ae0fc4d0d9701206eb8ee10",
+  "sha256": "4a9ff4a3c5b8e4f17f7b8be2833684ed074d6210cb5395c0310604575c95951b",
   "minSdk": 26,
-  "notes": "# Orvio 1.13\n\nTV:\n- Terugspoelen tijdens live tv: je ziet nu meteen waar je bent, en OK brengt je met een knop terug naar live.\n- OK of rechts op een kanaal in de lijst gooit je niet meer ongevraagd terug naar live.\n- De afstandsbediening raakt niet meer kwijt in de pagina achter de speler.\n- Na het sluiten van de speler of een pagina kom je terug op waar je was.\n- Home: kleinere banner, omhoog en omlaag gaan rechtstreeks van rij naar rij, en de geselecteerde rij blijft goed in beeld.\n- \"Alles bekijken\" staat nu aan het eind van de rij.\n- Beter zichtbaar waar je bent, ook op gele knoppen en in de linkerkolom.\n\nAccount:\n- Na het bevestigen van je e-mail logt Orvio vanzelf in, ook als de pagina na de klik wit blijft of je de mail op een ander apparaat opent.\n"
+  "notes": "# Orvio 1.14\n\n- De app haalt updates en extra informatie nu op via \u00e9\u00e9n eigen adres.\n- De e-mailbevestiging komt uit op een nette pagina.\n- Live tv: knoppen \u221230 en +30 seconden op zenders die je kunt terugspoelen. Staan onder OK op de tv en in de speler op de telefoon.\n- De QR-code op de tv is nu een gewoon webadres: elke camera opent hem, en Orvio gaat direct open met de code ingevuld.\n"
 }
