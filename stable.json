@@ -1,9 +1,9 @@
 {
-  "versionCode": 109,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.9/Orvio-1.9.apk",
+  "versionCode": 110,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.10/Orvio-1.10.apk",
   "sizeBytes": 11813136,
-  "sha256": "7db90e0539c6dc19320d2b10fda631306f2e8bfbcf840d61a3a306c5480234ae",
+  "sha256": "43e4ce56a520852d2b003eafa8199e659c7ebf639959bc079396069fc82d6a49",
   "minSdk": 26,
-  "notes": "# Orvio 1.9\n\n- De opstartanimatie blijft niet meer ruim een seconde stilstaan op het eerste beeld en slaat geen stuk meer over.\n- Het logo groeit nu meteen terwijl het verschijnt.\n"
+  "notes": "# Orvio 1.10\n\n- De opstartanimatie kan niet meer worden overgeslagen.\n"
 }
