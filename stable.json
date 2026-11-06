@@ -1,9 +1,9 @@
 {
-  "versionCode": 111,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.11/Orvio-1.11.apk",
+  "versionCode": 112,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.12/Orvio-1.12.apk",
   "sizeBytes": 11813136,
-  "sha256": "5768bd801e19844ac3fef9f93e654a46dbc8264ae06926bb27229358f41a61d3",
+  "sha256": "d172c8267eb463fc76a8f873fd7faea43e1d573d46cecc380c52be1468ad8c81",
   "minSdk": 26,
-  "notes": "# Orvio 1.11\n\n- Een playlist openen toont nu een rustig overzicht: aantallen, laatste update en drie duidelijke keuzes. De inloggegevens staan achter \"Verbinding bewerken\".\n- Bij Playlists zie je per playlist de datum en tijd van de laatste update.\n"
+  "notes": "# Orvio 1.12\n\n- Bij een Xtream-playlist zie je wanneer je abonnement afloopt en hoeveel streams tegelijk mogen. Een week voor het einde krijg je een waarschuwing.\n- Mislukt een update, ook op de achtergrond, dan zie je dat en waarom bij de playlist.\n- Een heel grote bibliotheek op een apparaat met weinig geheugen laat de app niet meer crashen tijdens een update: de update stopt en je bibliotheek blijft staan.\n"
 }
