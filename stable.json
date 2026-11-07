@@ -1,9 +1,9 @@
 {
-  "versionCode": 121,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.21/Orvio-1.21.apk",
+  "versionCode": 122,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.22/Orvio-1.22.apk",
   "sizeBytes": 11878672,
-  "sha256": "2a1367bcdf6c09111c944d32a87f1db05b79f7f7fbb7d77adb4054ccb042f868",
+  "sha256": "7bc23e0ac5ddfae6112bc46a88256dcc7ab6bf88f10f558918fbca9388b650ec",
   "minSdk": 26,
-  "notes": "# Orvio 1.21\n\n- Nieuw tabblad Radio: al je radiozenders overzichtelijk bij elkaar, met categorieen, zoeken en favorieten. Kies een zender en hij speelt meteen, terwijl je op de lijst blijft.\n- Op je telefoon speelt de radio door met het scherm uit of buiten de app, met een melding om hem te bedienen.\n- Het scherm blijft nu aan zolang er echt iets speelt, ook als je niets aanraakt. Staat iets op pauze of is het afgelopen, dan mag het apparaat na 5 minuten weer slapen.\n"
+  "notes": "# Orvio 1.22\n\n- De radio speelt nu door terwijl je door de rest van de app bladert, met pauze en stop op elke pagina.\n- Sluit een provider de verbinding, dan verbindt een zender of radiostation vanzelf opnieuw in plaats van stil te vallen.\n"
 }
