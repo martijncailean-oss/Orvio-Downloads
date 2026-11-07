@@ -1,9 +1,9 @@
 {
-  "versionCode": 117,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.17/Orvio-1.17.apk",
-  "sizeBytes": 11829520,
-  "sha256": "d45ef2eeba186cb976a0a1beec2b31f5119a9df11035aa992d43292f8fdfe93e",
+  "versionCode": 118,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.18/Orvio-1.18.apk",
+  "sizeBytes": 11845904,
+  "sha256": "c4f14b6f0aa441661a9177905152c3ee84f4650a38ecee61ea5790cf4ad39466",
   "minSdk": 26,
-  "notes": "# Orvio 1.17\n\n- Terugkijken: met Terug wordt de speler kleiner en gaat het programma gewoon door. Het springt niet meer naar live.\n- Op de telefoon staat in de kleine speler een knop om naar live te gaan. Op de tv kies je het huidige programma in de gids.\n- De balk bij terugkijken is nu zo lang als het programma, plus een paar minuten speling, in plaats van soms meer dan een dag.\n"
+  "notes": "# Orvio 1.18\n\n- De tv-gids onthoudt wat hij heeft geladen: bij de volgende keer openen staat alles er meteen, ook na het herstarten van de app.\n- De gids haalt eerst de zenders op die je ziet, en verwerkt de gegevens op de achtergrond, zodat hij blijft reageren.\n- Nieuw: externe tv-gids (XMLTV) per playlist. Instellingen, Playlists, kies je playlist, Externe tv-gids toevoegen. Hij vult aan wat de gids van je provider mist.\n"
 }
