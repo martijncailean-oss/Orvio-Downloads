@@ -1,9 +1,9 @@
 {
-  "versionCode": 1120,
-  "versionName": "1.20",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.20/Orvio-TV-1.20.apk",
-  "sizeBytes": 11862288,
-  "sha256": "04bf2a2eeddcad9e4b7ccaee252961e9eca02afb0c004ffefc8cd8a888c95696",
+  "versionCode": 1121,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.21/Orvio-TV-1.21.apk",
+  "sizeBytes": 11878672,
+  "sha256": "1aa5028b84b0dd169b6e5959140546d4f58c81add7ad2c939f33ae3282f4249b",
   "minSdk": 26,
-  "notes": "# Orvio 1.20\n\n- Tv: typ een zendernummer op de afstandsbediening en je zit op die zender.\n- Nieuw in Instellingen: Categorieen. Verberg wat je nooit kijkt en zet je favoriete zenders in je eigen volgorde.\n- Zoeken vindt nu ook programma's, en je kunt zoeken met je stem.\n- In de speler: geluid synchroon zetten met het beeld, en de grootte van ondertitels kiezen.\n"
+  "notes": "# Orvio 1.21\n\n- Nieuw tabblad Radio: al je radiozenders overzichtelijk bij elkaar, met categorieen, zoeken en favorieten. Kies een zender en hij speelt meteen, terwijl je op de lijst blijft.\n- Op je telefoon speelt de radio door met het scherm uit of buiten de app, met een melding om hem te bedienen.\n- Het scherm blijft nu aan zolang er echt iets speelt, ook als je niets aanraakt. Staat iets op pauze of is het afgelopen, dan mag het apparaat na 5 minuten weer slapen.\n"
 }
