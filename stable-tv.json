@@ -1,9 +1,9 @@
 {
-  "versionCode": 1123,
-  "versionName": "1.23",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.23/Orvio-TV-1.23.apk",
-  "sizeBytes": 11878728,
-  "sha256": "4728b8f6da5d8a547a0c12101481ba7c06edcb2ec8a4e0c8258722b1c45627e5",
+  "versionCode": 1124,
+  "versionName": "1.24",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.24/Orvio-TV-1.24.apk",
+  "sizeBytes": 11895112,
+  "sha256": "4e9cfd503bc579190681071bb66d5dceb0381c6a32c2526238c344ff6f09797c",
   "minSdk": 26,
-  "notes": "# Orvio 1.23\n\n- Slaaptimer voor de radio: kies het maantje in de radiobalk en de radio stopt vanzelf.\n- De radio laat zien welk nummer er speelt, als de zender dat meestuurt. Ook op je vergrendelscherm.\n- Verder luisteren: op Home en bij Radio staat je laatste zender klaar.\n- Op mobiele data vraagt de app het eerst voordat een film, serie of tv-zender start. Dit kun je uitzetten in de instellingen.\n- Radio in Android Auto: blader door je zenders of vraag er een met je stem.\n- Blijft de verbinding wegvallen, dan zegt de app dat nu, met een knop om het opnieuw te proberen.\n"
+  "notes": "# Orvio 1.24\n\n- Sneller op de tv: een tabblad staat er meteen, en de schermen van de tv-versie zitten nu ook in het deel van de app dat vooraf wordt klaargezet.\n- Het Halloween-thema beweegt vloeiend, en staat nu ook op Live-tv, om het lopende beeld heen.\n- Speelt de radio, dan kom je met omhoog vanaf elke plek in de radiobalk, ook vanuit het menu links en vanaf Start.\n- Speelt de radio op de tv, dan gaat het scherm na 30 seconden zonder knop op zwart. E\u00e9n druk op een knop maakt het weer licht, zonder verder iets te doen.\n- \"Lijst wissen\" is op de tv een kleine knop.\n- Onder Laatst bekeken staat nu \"Film \u00b7 nog 109 min\", en een radiozender heet onder Recente zenders \"Radio\".\n"
 }
