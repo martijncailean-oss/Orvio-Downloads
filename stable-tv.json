@@ -1,9 +1,9 @@
 {
-  "versionCode": 1122,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.22/Orvio-TV-1.22.apk",
-  "sizeBytes": 11878672,
-  "sha256": "7996eb985b31d2555c1b4c465ca078125d4cf1536ffca959e6911a5df3596117",
+  "versionCode": 1123,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.23/Orvio-TV-1.23.apk",
+  "sizeBytes": 11878728,
+  "sha256": "4728b8f6da5d8a547a0c12101481ba7c06edcb2ec8a4e0c8258722b1c45627e5",
   "minSdk": 26,
-  "notes": "# Orvio 1.22\n\n- De radio speelt nu door terwijl je door de rest van de app bladert, met pauze en stop op elke pagina.\n- Sluit een provider de verbinding, dan verbindt een zender of radiostation vanzelf opnieuw in plaats van stil te vallen.\n"
+  "notes": "# Orvio 1.23\n\n- Slaaptimer voor de radio: kies het maantje in de radiobalk en de radio stopt vanzelf.\n- De radio laat zien welk nummer er speelt, als de zender dat meestuurt. Ook op je vergrendelscherm.\n- Verder luisteren: op Home en bij Radio staat je laatste zender klaar.\n- Op mobiele data vraagt de app het eerst voordat een film, serie of tv-zender start. Dit kun je uitzetten in de instellingen.\n- Radio in Android Auto: blader door je zenders of vraag er een met je stem.\n- Blijft de verbinding wegvallen, dan zegt de app dat nu, met een knop om het opnieuw te proberen.\n"
 }
