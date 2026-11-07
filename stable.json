@@ -1,9 +1,9 @@
 {
-  "versionCode": 116,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.16/Orvio-1.16.apk",
+  "versionCode": 117,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.17/Orvio-1.17.apk",
   "sizeBytes": 11829520,
-  "sha256": "746a5ace553306f414373eb17405ea866fdea23bbe9720241c98db7b5f8b50c0",
+  "sha256": "d45ef2eeba186cb976a0a1beec2b31f5119a9df11035aa992d43292f8fdfe93e",
   "minSdk": 26,
-  "notes": "# Orvio 1.16\n\n- De Terug-knop gaat nu overal naar waar je vandaan kwam: van een zender terug naar je zoekresultaten of Home, in plaats van naar Live TV.\n- Op de tv staat de afstandsbediening daarna weer op wat je had gekozen, ook op een zender op Home en op Alles bekijken.\n- Op de telefoon gaat Terug vanuit Meer zoals dit naar de vorige titel, niet meer helemaal naar de lijst.\n- Terug vanuit Zoeken, Downloads en Instellingen gaat naar de pagina waar je ze opende.\n- Een zender die je verlaat, stopt nu echt. Eerder stond hij stil op een oud beeld met het label live.\n- Op de tv-startpagina heet de rij met zenders nu Recente zenders.\n"
+  "notes": "# Orvio 1.17\n\n- Terugkijken: met Terug wordt de speler kleiner en gaat het programma gewoon door. Het springt niet meer naar live.\n- Op de telefoon staat in de kleine speler een knop om naar live te gaan. Op de tv kies je het huidige programma in de gids.\n- De balk bij terugkijken is nu zo lang als het programma, plus een paar minuten speling, in plaats van soms meer dan een dag.\n"
 }
