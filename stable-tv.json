@@ -1,9 +1,9 @@
 {
-  "versionCode": 1118,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.18/Orvio-TV-1.18.apk",
+  "versionCode": 1119,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.19/Orvio-TV-1.19.apk",
   "sizeBytes": 11845904,
-  "sha256": "83c5a1b8df23f359c7d8ff11375f3995e22d2143968ecc4bba03ca2f197d2555",
+  "sha256": "69fad09e1709c1b0776fc61db8f8c8a61c104f70bc557aa95f45453516b72283",
   "minSdk": 26,
-  "notes": "# Orvio 1.18\n\n- De tv-gids onthoudt wat hij heeft geladen: bij de volgende keer openen staat alles er meteen, ook na het herstarten van de app.\n- De gids haalt eerst de zenders op die je ziet, en verwerkt de gegevens op de achtergrond, zodat hij blijft reageren.\n- Nieuw: externe tv-gids (XMLTV) per playlist. Instellingen, Playlists, kies je playlist, Externe tv-gids toevoegen. Hij vult aan wat de gids van je provider mist.\n"
+  "notes": "# Orvio 1.19\n\n- Tv-gids: zenders bleven soms op Geen programma-informatie staan, terwijl de zenderlijst het programma wel liet zien. De gids laat nu altijd zien wat de lijst al weet.\n- De gids vraagt minder tegelijk aan je provider en probeert wat geweigerd werd vanzelf opnieuw, zonder dat je hoeft te scrollen.\n"
 }
