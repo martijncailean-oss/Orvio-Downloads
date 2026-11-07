@@ -1,9 +1,9 @@
 {
-  "versionCode": 1114,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.14/Orvio-TV-1.14.apk",
+  "versionCode": 1115,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.15/Orvio-TV-1.15.apk",
   "sizeBytes": 11829520,
-  "sha256": "4a9ff4a3c5b8e4f17f7b8be2833684ed074d6210cb5395c0310604575c95951b",
+  "sha256": "2de36a77af5cbb18d3f6431311391c8040cdaadd5613263c01ba75bf00c73b60",
   "minSdk": 26,
-  "notes": "# Orvio 1.14\n\n- De app haalt updates en extra informatie nu op via \u00e9\u00e9n eigen adres.\n- De e-mailbevestiging komt uit op een nette pagina.\n- Live tv: knoppen \u221230 en +30 seconden op zenders die je kunt terugspoelen. Staan onder OK op de tv en in de speler op de telefoon.\n- De QR-code op de tv is nu een gewoon webadres: elke camera opent hem, en Orvio gaat direct open met de code ingevuld.\n"
+  "notes": "# Orvio 1.15\n\n- Terugkijken zit nu gewoon in de tv-gids: ga terug in de tijd en kies een programma met \u27f2. Zo ver terug als de zender bewaart, tot een week.\n- In de speler op live tv staat een knop Tv-gids.\n- Volgende aflevering: tijdens de aftiteling verschijnt een kaartje met een beeld van de volgende aflevering. E\u00e9n druk op de knop en hij start.\n- Tv: de afstandsbediening deed soms niets meer in films en series, nadat de knoppen in de speler waren verdwenen. Dat is opgelost.\n"
 }
