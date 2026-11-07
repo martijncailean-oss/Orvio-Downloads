@@ -1,9 +1,9 @@
 {
-  "versionCode": 115,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.15/Orvio-1.15.apk",
+  "versionCode": 116,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.16/Orvio-1.16.apk",
   "sizeBytes": 11829520,
-  "sha256": "d23cc97239a004418e7f46139759de7edece64919e08b22067df8d8e50a76ad8",
+  "sha256": "746a5ace553306f414373eb17405ea866fdea23bbe9720241c98db7b5f8b50c0",
   "minSdk": 26,
-  "notes": "# Orvio 1.15\n\n- Terugkijken zit nu gewoon in de tv-gids: ga terug in de tijd en kies een programma met \u27f2. Zo ver terug als de zender bewaart, tot een week.\n- In de speler op live tv staat een knop Tv-gids.\n- Volgende aflevering: tijdens de aftiteling verschijnt een kaartje met een beeld van de volgende aflevering. E\u00e9n druk op de knop en hij start.\n- Tv: de afstandsbediening deed soms niets meer in films en series, nadat de knoppen in de speler waren verdwenen. Dat is opgelost.\n"
+  "notes": "# Orvio 1.16\n\n- De Terug-knop gaat nu overal naar waar je vandaan kwam: van een zender terug naar je zoekresultaten of Home, in plaats van naar Live TV.\n- Op de tv staat de afstandsbediening daarna weer op wat je had gekozen, ook op een zender op Home en op Alles bekijken.\n- Op de telefoon gaat Terug vanuit Meer zoals dit naar de vorige titel, niet meer helemaal naar de lijst.\n- Terug vanuit Zoeken, Downloads en Instellingen gaat naar de pagina waar je ze opende.\n- Een zender die je verlaat, stopt nu echt. Eerder stond hij stil op een oud beeld met het label live.\n- Op de tv-startpagina heet de rij met zenders nu Recente zenders.\n"
 }
