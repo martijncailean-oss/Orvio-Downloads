@@ -1,9 +1,9 @@
 {
-  "versionCode": 119,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.19/Orvio-1.19.apk",
-  "sizeBytes": 11845904,
-  "sha256": "81d524ead29c1180959095acc3af21cf5e144336e321f18fb5a86eac4ed37752",
+  "versionCode": 120,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.20/Orvio-1.20.apk",
+  "sizeBytes": 11862288,
+  "sha256": "4cc4a6cfbc6d248487ac2736bd914cb5773659403d20b1010116d45678790a6d",
   "minSdk": 26,
-  "notes": "# Orvio 1.19\n\n- Tv-gids: zenders bleven soms op Geen programma-informatie staan, terwijl de zenderlijst het programma wel liet zien. De gids laat nu altijd zien wat de lijst al weet.\n- De gids vraagt minder tegelijk aan je provider en probeert wat geweigerd werd vanzelf opnieuw, zonder dat je hoeft te scrollen.\n"
+  "notes": "# Orvio 1.20\n\n- Tv: typ een zendernummer op de afstandsbediening en je zit op die zender.\n- Nieuw in Instellingen: Categorieen. Verberg wat je nooit kijkt en zet je favoriete zenders in je eigen volgorde.\n- Zoeken vindt nu ook programma's, en je kunt zoeken met je stem.\n- In de speler: geluid synchroon zetten met het beeld, en de grootte van ondertitels kiezen.\n"
 }
