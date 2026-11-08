@@ -1,9 +1,9 @@
 {
-  "versionCode": 1130,
-  "versionName": "1.30",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.30/Orvio-TV-1.30.apk",
+  "versionCode": 1131,
+  "versionName": "1.31",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.31/Orvio-TV-1.31.apk",
   "sizeBytes": 11817288,
-  "sha256": "2fbb617f80e062a26873a3036ba0eb4586660dc4409e1be8217888765226e11a",
+  "sha256": "f7eed3ac5d68b4adb3261a36495060f75e48c310bcd754c8277a724260cae05e",
   "minSdk": 26,
-  "notes": "# Orvio 1.30\n\n- Navigatiegeluiden op de tv komen niet meer te laat: de app houdt de geluidsuitgang (HDMI en een soundbar erachter) wakker zolang je door de menu's gaat.\n- App-updates ziet er rustiger uit: \u00e9\u00e9n gouden knop (Update installeren als er een update klaarstaat), Zoeken naar updates als lichte knop eronder, en het ringplaatje zonder donker vierkant eromheen.\n"
+  "notes": "# Orvio 1.31\n\n- De tv-app is nog een stuk kleiner getekend (70% in plaats van 80%), zodat je overal meer ziet.\n- Instellingen op de tv: kleinere plaatjes, vier profielen naast elkaar, en wisselen tussen pagina's gebeurt meteen, zonder dat twee pagina's even over elkaar heen staan.\n- Geluid proberen laat nu het tikje horen dat je ook in de app hoort bij het bewegen.\n"
 }
