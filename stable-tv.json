@@ -1,9 +1,9 @@
 {
-  "versionCode": 1125,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.25/Orvio-TV-1.25.apk",
+  "versionCode": 1126,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.26/Orvio-TV-1.26.apk",
   "sizeBytes": 11895112,
-  "sha256": "b7220f364cb3d1edd215d71c44a2040e4ad921eac902186b07c598428ad60c04",
+  "sha256": "eeef0b62c293308b4f62184dd0a4b0231075820617ab704e991e7732b76d53e5",
   "minSdk": 26,
-  "notes": "# Orvio 1.25\n\n- Speelt de radio op de tv, dan wordt het scherm na 30 seconden zonder knop zwart, ook als er een melding van de tv tussendoor kwam. De eerste druk op een knop maakt het weer licht.\n- \"Lijst wissen\" staat op de tv nu net als op de telefoon rechts naast de titel van de rij.\n- Het menu \"Meer\" in de speler is breder en rustiger: alle tijden van de slaaptimer op \u00e9\u00e9n regel, kleinere koppen.\n"
+  "notes": "# Orvio 1.26\n\n- Start op de tv is compacter: een lagere radiobalk met kleinere knoppen, een minder hoge banner en smallere tegels bij Laatst bekeken. Je ziet meer in \u00e9\u00e9n keer.\n"
 }
