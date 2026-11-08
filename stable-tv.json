@@ -1,9 +1,9 @@
 {
-  "versionCode": 1131,
-  "versionName": "1.31",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.31/Orvio-TV-1.31.apk",
+  "versionCode": 1132,
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.32/Orvio-TV-1.32.apk",
   "sizeBytes": 11817288,
-  "sha256": "f7eed3ac5d68b4adb3261a36495060f75e48c310bcd754c8277a724260cae05e",
+  "sha256": "5bbbc447e406f0265999953cf2a05f30a73aa0b158622bec49802c519f399cef",
   "minSdk": 26,
-  "notes": "# Orvio 1.31\n\n- De tv-app is nog een stuk kleiner getekend (70% in plaats van 80%), zodat je overal meer ziet.\n- Instellingen op de tv: kleinere plaatjes, vier profielen naast elkaar, en wisselen tussen pagina's gebeurt meteen, zonder dat twee pagina's even over elkaar heen staan.\n- Geluid proberen laat nu het tikje horen dat je ook in de app hoort bij het bewegen.\n"
+  "notes": "# Orvio 1.32\n\n- Op de telefoon passen knoppen als \"Extra groot\" weer in hun vak: de tekst wordt zo nodig iets kleiner in plaats van afgekapt.\n- Kleine tekst die over meerdere regels loopt staat niet meer met grote gaten tussen de regels, overal in de app.\n"
 }
