@@ -1,9 +1,9 @@
 {
-  "versionCode": 128,
-  "versionName": "1.28",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.28/Orvio-1.28.apk",
-  "sizeBytes": 11944264,
-  "sha256": "8e6987fd81a5135420826f093e80afb2a192360978b0f3d7eb0b2cf256df1838",
+  "versionCode": 129,
+  "versionName": "1.29",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.29/Orvio-1.29.apk",
+  "sizeBytes": 11866440,
+  "sha256": "3b633b575ba4f6c87e29424e9e62130fb6d467485e315b2339a5f946d3c39357",
   "minSdk": 26,
-  "notes": "# Orvio 1.28\n\n- Ga je van Live-tv naar Films of een ander tabblad, dan stopt het geluid van de zender meteen. Eerst speelde het nog even door terwijl Films al in beeld kwam.\n"
+  "notes": "# Orvio 1.29\n\n- De navigatiegeluiden op de tv komen weer meteen bij het bewegen. De Halloween-geluiden (en die van de andere seizoenen) hadden een andere kwaliteit dan de tv, waardoor Android ze eerst moest omzetten en ze te laat klonken.\n"
 }
