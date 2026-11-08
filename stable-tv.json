@@ -1,9 +1,9 @@
 {
-  "versionCode": 1126,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.26/Orvio-TV-1.26.apk",
+  "versionCode": 1127,
+  "versionName": "1.27",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.27/Orvio-TV-1.27.apk",
   "sizeBytes": 11895112,
-  "sha256": "eeef0b62c293308b4f62184dd0a4b0231075820617ab704e991e7732b76d53e5",
+  "sha256": "2a3ec8fde9adb713d63b5dcb1b382ff8c12fbcbdd0592b7773305f36667647f6",
   "minSdk": 26,
-  "notes": "# Orvio 1.26\n\n- Start op de tv is compacter: een lagere radiobalk met kleinere knoppen, een minder hoge banner en smallere tegels bij Laatst bekeken. Je ziet meer in \u00e9\u00e9n keer.\n"
+  "notes": "# Orvio 1.27\n\n- Op de tv is alles kleiner: tegels, tekst, instellingen en Laatst bekeken. Je ziet meer in \u00e9\u00e9n keer, bijvoorbeeld zes films per rij en tien zenders in Live-tv.\n- Terugkijken stopt niet meer precies op de geplande eindtijd: loopt een programma uit, dan kijk je tot een half uur verder door.\n"
 }
