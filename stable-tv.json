@@ -1,9 +1,9 @@
 {
-  "versionCode": 1127,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.27/Orvio-TV-1.27.apk",
+  "versionCode": 1128,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.28/Orvio-TV-1.28.apk",
   "sizeBytes": 11895112,
-  "sha256": "2a3ec8fde9adb713d63b5dcb1b382ff8c12fbcbdd0592b7773305f36667647f6",
+  "sha256": "d2f6ed868377e22788afd31e638dcf895b97e01963c032b5ccd8fdb249afd1f7",
   "minSdk": 26,
-  "notes": "# Orvio 1.27\n\n- Op de tv is alles kleiner: tegels, tekst, instellingen en Laatst bekeken. Je ziet meer in \u00e9\u00e9n keer, bijvoorbeeld zes films per rij en tien zenders in Live-tv.\n- Terugkijken stopt niet meer precies op de geplande eindtijd: loopt een programma uit, dan kijk je tot een half uur verder door.\n"
+  "notes": "# Orvio 1.28\n\n- Ga je van Live-tv naar Films of een ander tabblad, dan stopt het geluid van de zender meteen. Eerst speelde het nog even door terwijl Films al in beeld kwam.\n"
 }
