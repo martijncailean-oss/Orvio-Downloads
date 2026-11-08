@@ -1,9 +1,9 @@
 {
-  "versionCode": 124,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.24/Orvio-1.24.apk",
+  "versionCode": 125,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.25/Orvio-1.25.apk",
   "sizeBytes": 11944264,
-  "sha256": "db29aefb865793ae75c724b11b51c3ac82f53e47a971878ceda93c1d2eb765d8",
+  "sha256": "d4ab6e45ee006ca53aa085386ad82854129e5a5e5f98a5043635b8e432de158d",
   "minSdk": 26,
-  "notes": "# Orvio 1.24\n\n- Sneller op de tv: een tabblad staat er meteen, en de schermen van de tv-versie zitten nu ook in het deel van de app dat vooraf wordt klaargezet.\n- Het Halloween-thema beweegt vloeiend, en staat nu ook op Live-tv, om het lopende beeld heen.\n- Speelt de radio, dan kom je met omhoog vanaf elke plek in de radiobalk, ook vanuit het menu links en vanaf Start.\n- Speelt de radio op de tv, dan gaat het scherm na 30 seconden zonder knop op zwart. E\u00e9n druk op een knop maakt het weer licht, zonder verder iets te doen.\n- \"Lijst wissen\" is op de tv een kleine knop.\n- Onder Laatst bekeken staat nu \"Film \u00b7 nog 109 min\", en een radiozender heet onder Recente zenders \"Radio\".\n"
+  "notes": "# Orvio 1.25\n\n- Speelt de radio op de tv, dan wordt het scherm na 30 seconden zonder knop zwart, ook als er een melding van de tv tussendoor kwam. De eerste druk op een knop maakt het weer licht.\n- \"Lijst wissen\" staat op de tv nu net als op de telefoon rechts naast de titel van de rij.\n- Het menu \"Meer\" in de speler is breder en rustiger: alle tijden van de slaaptimer op \u00e9\u00e9n regel, kleinere koppen.\n"
 }
