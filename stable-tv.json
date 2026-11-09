@@ -1,9 +1,9 @@
 {
-  "versionCode": 1135,
-  "versionName": "1.35",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.35/Orvio-TV-1.35.apk",
-  "sizeBytes": 11837768,
-  "sha256": "66ad606fc97f023884a17f49261855e5ee51662be3046ad2072ac836c36b4014",
+  "versionCode": 1136,
+  "versionName": "1.36",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.36/Orvio-TV-1.36.apk",
+  "sizeBytes": 11825480,
+  "sha256": "557b6d7f6f2f0e8884c1ea55a98e542fd69a0b97333244899235a6d64cc74944",
   "minSdk": 26,
-  "notes": "# Orvio 1.35\n\n- Nieuw Sinterklaas-geluid: bij het opstarten hinnikt het paard op het dak en draaft het binnen, met het begin van \"Sinterklaasje, kom maar binnen met je knecht\" op klokjes. Het tikje bij het bladeren is nu een hoefje, en het belletje bij favorieten en klare downloads speelt het slot van het liedje.\n"
+  "notes": "# Orvio 1.36\n\n- Onderhoud onder de motorkap: ongebruikte code is opgeruimd en de app stuurt minder verzoeken naar de server. Aan de schermen verandert niets.\n"
 }
