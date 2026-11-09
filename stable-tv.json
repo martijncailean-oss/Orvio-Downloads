@@ -1,9 +1,9 @@
 {
-  "versionCode": 1132,
-  "versionName": "1.32",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.32/Orvio-TV-1.32.apk",
+  "versionCode": 1133,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.33/Orvio-TV-1.33.apk",
   "sizeBytes": 11817288,
-  "sha256": "5bbbc447e406f0265999953cf2a05f30a73aa0b158622bec49802c519f399cef",
+  "sha256": "30968577d9ebeabde9388bd6abb4d71073b4913e3e32dd67e557c180e5e3489e",
   "minSdk": 26,
-  "notes": "# Orvio 1.32\n\n- Op de telefoon passen knoppen als \"Extra groot\" weer in hun vak: de tekst wordt zo nodig iets kleiner in plaats van afgekapt.\n- Kleine tekst die over meerdere regels loopt staat niet meer met grote gaten tussen de regels, overal in de app.\n"
+  "notes": "# Orvio 1.33\n\n- Op de telefoon staan de IMDb- en Rotten Tomatoes-scores bij Films en Series bovenin de poster, zodat ze de onderkant van de poster niet meer bedekken.\n"
 }
