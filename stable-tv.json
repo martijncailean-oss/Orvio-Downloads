@@ -1,9 +1,9 @@
 {
-  "versionCode": 1134,
-  "versionName": "1.34",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.34/Orvio-TV-1.34.apk",
-  "sizeBytes": 11817288,
-  "sha256": "9dd63403ccba4e4984de7ce0a20a5b255e335e7fe00e358312da60e56644ec37",
+  "versionCode": 1135,
+  "versionName": "1.35",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.35/Orvio-TV-1.35.apk",
+  "sizeBytes": 11837768,
+  "sha256": "66ad606fc97f023884a17f49261855e5ee51662be3046ad2072ac836c36b4014",
   "minSdk": 26,
-  "notes": "# Orvio 1.34\n\n- Films en Series kun je nu sorteren op IMDb-score (\"Sorteren: IMDb\"): titles met een bekende score staan bovenaan, de hoogste eerst. De app haalt bij het kiezen eerst de scores op van de meest kansrijke titels; hoe vaker je bladert, hoe completer de volgorde.\n- Radio toont het nummer en de artiest nu ook als de stream van je provider dat niet meestuurt: de app zoekt dezelfde zender op in de openbare zenderlijst en leest het nummer daar (bijvoorbeeld NPO Radio 2, 3FM en FunX). Niet elke zender stuurt dit mee; Qmusic, 538, Sky Radio en Radio 10 bijvoorbeeld niet.\n"
+  "notes": "# Orvio 1.35\n\n- Nieuw Sinterklaas-geluid: bij het opstarten hinnikt het paard op het dak en draaft het binnen, met het begin van \"Sinterklaasje, kom maar binnen met je knecht\" op klokjes. Het tikje bij het bladeren is nu een hoefje, en het belletje bij favorieten en klare downloads speelt het slot van het liedje.\n"
 }
