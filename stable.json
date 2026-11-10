@@ -1,9 +1,9 @@
 {
-  "versionCode": 138,
-  "versionName": "1.38",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.38/Orvio-1.38.apk",
-  "sizeBytes": 11874632,
-  "sha256": "477ce03980b7723d5a81e266438fecb1362b2cbbf325c2557fcca177f3006255",
+  "versionCode": 139,
+  "versionName": "1.39",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.39/Orvio-1.39.apk",
+  "sizeBytes": 11891016,
+  "sha256": "4a50d2488f12b01270fafc881e47312837b1070dbc615ee215885aeb2c1f1b88",
   "minSdk": 26,
-  "notes": "# Orvio 1.38\n\n- Sorteren op IMDb werkt nu over je hele bibliotheek: de app haalt \u00e9\u00e9n keer per week de volledige scoretabel op, in plaats van alleen de titels te kennen die je al eens zag. Tot de score-dienst is bijgewerkt blijft het sorteren werken zoals in 1.37.\n"
+  "notes": "# Orvio 1.39\n\n- Filmpagina op tv en tablet: kleinere poster, daaronder \"More like this\" en de cast, en op de achtergrond het brede beeld van de film. Het uitlegblok over downloads is weg; de downloadknop staat gewoon tussen de andere knoppen.\n- Seriepagina op tv: de knoppen (kijken, favoriet, gezien, trailer) staan nu direct onder de titel in plaats van helemaal onderaan.\n- Radio: het kaartje van de zender zegt nu ook \"Reconnecting\u2026\" als de verbinding opnieuw wordt opgepakt.\n- Het posterrooster staat strak: de laatste kolommen stonden twee pixels hoger.\n"
 }
