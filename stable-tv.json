@@ -1,9 +1,9 @@
 {
-  "versionCode": 1137,
-  "versionName": "1.37",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.37/Orvio-TV-1.37.apk",
+  "versionCode": 1138,
+  "versionName": "1.38",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.38/Orvio-TV-1.38.apk",
   "sizeBytes": 11825480,
-  "sha256": "cc66c5a88567f07dff54e7bb2ae460bc897aa191f7973b7fde9a35f74dbc85ac",
+  "sha256": "785124252b4e36e547347e711132211fe4c6bb8d6317c1b9272488050ec9966c",
   "minSdk": 26,
-  "notes": "# Orvio 1.37\n\n- De Rotten Tomatoes-score komt nu alleen nog van de score-dienst van Orvio. De app vraagt zelf niets meer op bij Rotten Tomatoes: dat leverde in de praktijk geen extra scores op en maakte de app kwetsbaarder.\n"
+  "notes": "# Orvio 1.38\n\n- Sorteren op IMDb werkt nu over je hele bibliotheek: de app haalt \u00e9\u00e9n keer per week de volledige scoretabel op, in plaats van alleen de titels te kennen die je al eens zag. Tot de score-dienst is bijgewerkt blijft het sorteren werken zoals in 1.37.\n"
 }
