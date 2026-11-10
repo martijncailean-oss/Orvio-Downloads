@@ -1,9 +1,9 @@
 {
-  "versionCode": 136,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.36/Orvio-1.36.apk",
-  "sizeBytes": 11891016,
-  "sha256": "d84614c5f806258d78ad4088bc9d5b9f34e648913179286415b0ca3998230305",
+  "versionCode": 137,
+  "versionName": "1.37",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.37/Orvio-1.37.apk",
+  "sizeBytes": 11874632,
+  "sha256": "39d897f163213eb10c0a42ed7406358f0cc0c87d77540a2e11a7acb798682704",
   "minSdk": 26,
-  "notes": "# Orvio 1.36\n\n- Onderhoud onder de motorkap: ongebruikte code is opgeruimd en de app stuurt minder verzoeken naar de server. Aan de schermen verandert niets.\n"
+  "notes": "# Orvio 1.37\n\n- De Rotten Tomatoes-score komt nu alleen nog van de score-dienst van Orvio. De app vraagt zelf niets meer op bij Rotten Tomatoes: dat leverde in de praktijk geen extra scores op en maakte de app kwetsbaarder.\n"
 }
