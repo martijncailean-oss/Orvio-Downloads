@@ -1,9 +1,9 @@
 {
-  "versionCode": 1141,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.41/Orvio-TV-1.41.apk",
+  "versionCode": 1142,
+  "versionName": "1.42",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.42/Orvio-TV-1.42.apk",
   "sizeBytes": 11825480,
-  "sha256": "956407cc1e32fe7df43451991ce329d6c04a6c33578be67bbf86a6c3a223bb0f",
+  "sha256": "d5c5765cc208d65efb055bf50fe17dc07e90564132196c028ab0c5e4508404bf",
   "minSdk": 26,
-  "notes": "# Orvio 1.41\n\n- Rustiger uiterlijk: knoppen, filters en ronde knoppen zijn nu vlak, zonder schaduw en dikke randen; alleen de knop waar je op staat krijgt een rand. Vensters (seizoen kiezen, downloaden, bevestigen) hebben \u00e9\u00e9n nette stijl.\n- Seriepagina op de telefoon: \"Download\" voor het hele seizoen staat nu als vierde ronde knop onder de titel. Heeft een serie maar \u00e9\u00e9n seizoen, dan staat er gewoon \"Season 4\" in plaats van een keuzeknop.\n- Afleveringen zonder eigen afbeelding tonen de poster van de serie met het afleveringsnummer erop.\n- Scores: series waarvan je aanbieder geen jaartal meegeeft, krijgen nu ook een IMDb- en Rotten Tomatoes-score. Let op: veel kleine titels en documentaires hebben bij Rotten Tomatoes zelf geen score; daar toont Orvio alleen IMDb.\n"
+  "notes": "# Orvio 1.42\n\n- Sneller: Orvio weet nu ook van de schermen uit de laatste versies welke onderdelen vooraf klaargezet moeten worden. Die openen daardoor vlotter, vooral de eerste keer.\n- Verder geen zichtbare wijzigingen.\n"
 }
