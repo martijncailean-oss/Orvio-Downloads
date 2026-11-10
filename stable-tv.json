@@ -1,9 +1,9 @@
 {
-  "versionCode": 1142,
-  "versionName": "1.42",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.42/Orvio-TV-1.42.apk",
+  "versionCode": 1143,
+  "versionName": "1.43",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.43/Orvio-TV-1.43.apk",
   "sizeBytes": 11825480,
-  "sha256": "d5c5765cc208d65efb055bf50fe17dc07e90564132196c028ab0c5e4508404bf",
+  "sha256": "e06e14989bdce8da0680a200a10b6a4e55a9150e6f48cce585d08d4964343ef7",
   "minSdk": 26,
-  "notes": "# Orvio 1.42\n\n- Sneller: Orvio weet nu ook van de schermen uit de laatste versies welke onderdelen vooraf klaargezet moeten worden. Die openen daardoor vlotter, vooral de eerste keer.\n- Verder geen zichtbare wijzigingen.\n"
+  "notes": "# Orvio 1.43\n\n- Updates worden voortaan samen met hun opstartprofiel ge\u00efnstalleerd. Android maakt de app daardoor al tijdens het installeren snel, in plaats van pas na een nacht aan de lader.\n- Je merkt dit vanaf de update n\u00e1 deze. Installeren kan daardoor enkele seconden langer duren.\n- Lukt deze manier op een toestel niet, dan installeert Orvio zoals voorheen.\n"
 }
