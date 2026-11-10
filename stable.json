@@ -1,9 +1,9 @@
 {
-  "versionCode": 139,
-  "versionName": "1.39",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.39/Orvio-1.39.apk",
+  "versionCode": 140,
+  "versionName": "1.40",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.40/Orvio-1.40.apk",
   "sizeBytes": 11891016,
-  "sha256": "4a50d2488f12b01270fafc881e47312837b1070dbc615ee215885aeb2c1f1b88",
+  "sha256": "1bef2a7b7990836f189c0bd0f47bd8251dc398204518fe77a1bf0c193264b021",
   "minSdk": 26,
-  "notes": "# Orvio 1.39\n\n- Filmpagina op tv en tablet: kleinere poster, daaronder \"More like this\" en de cast, en op de achtergrond het brede beeld van de film. Het uitlegblok over downloads is weg; de downloadknop staat gewoon tussen de andere knoppen.\n- Seriepagina op tv: de knoppen (kijken, favoriet, gezien, trailer) staan nu direct onder de titel in plaats van helemaal onderaan.\n- Radio: het kaartje van de zender zegt nu ook \"Reconnecting\u2026\" als de verbinding opnieuw wordt opgepakt.\n- Het posterrooster staat strak: de laatste kolommen stonden twee pixels hoger.\n"
+  "notes": "# Orvio 1.40\n\n- Zoeken: bovenaan staan nu je laatste zoekopdrachten als knoppen. Een zoekopdracht wordt onthouden zodra je een resultaat opent; met \"Clear\" wis je de lijst.\n- Tv: twee zenders naast elkaar. Open tijdens live-tv het menu van de speler (OK, dan \"More\") en kies onder \"Second channel\" een zender. Die speelt zonder geluid ernaast; met \"Swap channels\" wissel je de twee om, met \"Close second channel\" sluit je hem.\n- De tweede zender gebruikt een tweede stream van je abonnement. Staat je abonnement maar \u00e9\u00e9n stream tegelijk toe, dan biedt Orvio geen tweede zender van dezelfde playlist aan.\n"
 }
