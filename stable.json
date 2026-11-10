@@ -1,9 +1,9 @@
 {
-  "versionCode": 144,
-  "versionName": "1.44",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.44/Orvio-1.44.apk",
-  "sizeBytes": 11891016,
-  "sha256": "ba6b203c33769ecbe722f72c78624943e6bba1bcfd39d57ebaeabae208697d75",
+  "versionCode": 145,
+  "versionName": "1.45",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.45/Orvio-1.45.apk",
+  "sizeBytes": 11891072,
+  "sha256": "90f0416b2ff28df21a01d7bd9f3937c6caf762e5925c74b6a21f9b2a8d96e906",
   "minSdk": 26,
-  "notes": "# Orvio 1.44\n\n- Knoppen hebben nu getekende iconen (afspelen, favoriet, bekeken, pijltjes, microfoon) in plaats van lettertekens. Ze zien er daardoor op elk toestel hetzelfde en scherper uit.\n- Afspeelsnelheid in Instellingen toont nu ook 0,5\u00d7 en markeert altijd de gekozen snelheid.\n- Zoeken op tv: de filterknoppen zijn niet meer over de hele breedte uitgerekt.\n- Live tv op de telefoon: de filterknoppen worden niet meer afgekapt.\n"
+  "notes": "# Orvio 1.45\n\n- Alle menu's zijn opgeruimd en hebben nu \u00e9\u00e9n stijl: een duidelijke titel, vaste kopjes en knoppen die netjes in kolommen staan.\n- Het menu in de speler (voorheen \"More\") heet nu Opties. Op de telefoon schuift het als paneel aan de rechterkant in beeld en sluit je het met het kruisje of door ernaast te tikken. Op tv staat het in het midden, met alle slaaptimer-keuzes op \u00e9\u00e9n regel.\n- De knop voor dit menu is een pictogram met drie puntjes. Loopt er een slaaptimer, dan staat de resterende tijd ernaast.\n- Knoppen hebben getekende pictogrammen in plaats van losse tekens, zodat ze er op elk toestel hetzelfde uitzien.\n- De knoppen rechtsonder in de speler zijn niet langer gedimd.\n"
 }
