@@ -1,9 +1,9 @@
 {
-  "versionCode": 1136,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.36/Orvio-TV-1.36.apk",
+  "versionCode": 1137,
+  "versionName": "1.37",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.37/Orvio-TV-1.37.apk",
   "sizeBytes": 11825480,
-  "sha256": "557b6d7f6f2f0e8884c1ea55a98e542fd69a0b97333244899235a6d64cc74944",
+  "sha256": "cc66c5a88567f07dff54e7bb2ae460bc897aa191f7973b7fde9a35f74dbc85ac",
   "minSdk": 26,
-  "notes": "# Orvio 1.36\n\n- Onderhoud onder de motorkap: ongebruikte code is opgeruimd en de app stuurt minder verzoeken naar de server. Aan de schermen verandert niets.\n"
+  "notes": "# Orvio 1.37\n\n- De Rotten Tomatoes-score komt nu alleen nog van de score-dienst van Orvio. De app vraagt zelf niets meer op bij Rotten Tomatoes: dat leverde in de praktijk geen extra scores op en maakte de app kwetsbaarder.\n"
 }
