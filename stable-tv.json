@@ -1,9 +1,9 @@
 {
-  "versionCode": 1140,
-  "versionName": "1.40",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.40/Orvio-TV-1.40.apk",
+  "versionCode": 1141,
+  "versionName": "1.41",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.41/Orvio-TV-1.41.apk",
   "sizeBytes": 11825480,
-  "sha256": "5d2dccf94f80ad813affce5de0c026619817bb78f25e6e0a086a3312ba91c8a7",
+  "sha256": "956407cc1e32fe7df43451991ce329d6c04a6c33578be67bbf86a6c3a223bb0f",
   "minSdk": 26,
-  "notes": "# Orvio 1.40\n\n- Zoeken: bovenaan staan nu je laatste zoekopdrachten als knoppen. Een zoekopdracht wordt onthouden zodra je een resultaat opent; met \"Clear\" wis je de lijst.\n- Tv: twee zenders naast elkaar. Open tijdens live-tv het menu van de speler (OK, dan \"More\") en kies onder \"Second channel\" een zender. Die speelt zonder geluid ernaast; met \"Swap channels\" wissel je de twee om, met \"Close second channel\" sluit je hem.\n- De tweede zender gebruikt een tweede stream van je abonnement. Staat je abonnement maar \u00e9\u00e9n stream tegelijk toe, dan biedt Orvio geen tweede zender van dezelfde playlist aan.\n"
+  "notes": "# Orvio 1.41\n\n- Rustiger uiterlijk: knoppen, filters en ronde knoppen zijn nu vlak, zonder schaduw en dikke randen; alleen de knop waar je op staat krijgt een rand. Vensters (seizoen kiezen, downloaden, bevestigen) hebben \u00e9\u00e9n nette stijl.\n- Seriepagina op de telefoon: \"Download\" voor het hele seizoen staat nu als vierde ronde knop onder de titel. Heeft een serie maar \u00e9\u00e9n seizoen, dan staat er gewoon \"Season 4\" in plaats van een keuzeknop.\n- Afleveringen zonder eigen afbeelding tonen de poster van de serie met het afleveringsnummer erop.\n- Scores: series waarvan je aanbieder geen jaartal meegeeft, krijgen nu ook een IMDb- en Rotten Tomatoes-score. Let op: veel kleine titels en documentaires hebben bij Rotten Tomatoes zelf geen score; daar toont Orvio alleen IMDb.\n"
 }
