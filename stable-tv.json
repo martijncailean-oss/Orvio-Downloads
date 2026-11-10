@@ -1,9 +1,9 @@
 {
-  "versionCode": 1145,
-  "versionName": "1.45",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.45/Orvio-TV-1.45.apk",
+  "versionCode": 1146,
+  "versionName": "1.46",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.46/Orvio-TV-1.46.apk",
   "sizeBytes": 11825536,
-  "sha256": "a605fb1f7fb74206b01242a9def566f42827a59b028e04f5204b707b4a964dbd",
+  "sha256": "96da360a6580145c1eea82dee28c30538ed3c10fc2796bf79c51fb2ad4e44492",
   "minSdk": 26,
-  "notes": "# Orvio 1.45\n\n- Alle menu's zijn opgeruimd en hebben nu \u00e9\u00e9n stijl: een duidelijke titel, vaste kopjes en knoppen die netjes in kolommen staan.\n- Het menu in de speler (voorheen \"More\") heet nu Opties. Op de telefoon schuift het als paneel aan de rechterkant in beeld en sluit je het met het kruisje of door ernaast te tikken. Op tv staat het in het midden, met alle slaaptimer-keuzes op \u00e9\u00e9n regel.\n- De knop voor dit menu is een pictogram met drie puntjes. Loopt er een slaaptimer, dan staat de resterende tijd ernaast.\n- Knoppen hebben getekende pictogrammen in plaats van losse tekens, zodat ze er op elk toestel hetzelfde uitzien.\n- De knoppen rechtsonder in de speler zijn niet langer gedimd.\n"
+  "notes": "# Orvio 1.46\n\n- Tv: terugspoelen kan weer als de knoppen in beeld zijn. Druk vanaf de onderste knoppen op \u25c0 of \u25bc en je staat op de balk (gouden rand); met \u25c0 \u25b6 spoel je, met \u25b2 ga je terug naar de knoppen.\n- Tv: de uitleg van de afstandsbedieningstoetsen onderin het beeld is weg, in de speler, de tv-gids, de afleveringen en de overzichten. Het scherm is daardoor rustiger.\n"
 }
