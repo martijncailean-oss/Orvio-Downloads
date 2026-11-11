@@ -1,9 +1,9 @@
 {
-  "versionCode": 146,
-  "versionName": "1.46",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.46/Orvio-1.46.apk",
+  "versionCode": 147,
+  "versionName": "1.47",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.47/Orvio-1.47.apk",
   "sizeBytes": 11891072,
-  "sha256": "ce3587da6c2f389a3cee222d2258a3e1a641d3fb908a0279f46ddef8fe335cd6",
+  "sha256": "00b69d70db789fc5e42005ac06ec71db61024246f7ab9a4e9f0c73b724aac1bd",
   "minSdk": 26,
-  "notes": "# Orvio 1.46\n\n- Tv: terugspoelen kan weer als de knoppen in beeld zijn. Druk vanaf de onderste knoppen op \u25c0 of \u25bc en je staat op de balk (gouden rand); met \u25c0 \u25b6 spoel je, met \u25b2 ga je terug naar de knoppen.\n- Tv: de uitleg van de afstandsbedieningstoetsen onderin het beeld is weg, in de speler, de tv-gids, de afleveringen en de overzichten. Het scherm is daardoor rustiger.\n"
+  "notes": "# Orvio 1.47\n\n- Tablet (staand): de knoppen Sorteren en Verberg bekeken bij Films en Series waren leeg en tonen nu hun tekst.\n- Tablet (staand): de kop \"Afleveringen\" op een seriepagina breekt niet meer in twee\u00ebn.\n- Een paar teksten die nog Engels waren zijn vertaald, onder meer bij Geluid en op de playlistkaart.\n"
 }
