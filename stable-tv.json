@@ -1,9 +1,9 @@
 {
-  "versionCode": 1147,
-  "versionName": "1.47",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.47/Orvio-TV-1.47.apk",
-  "sizeBytes": 11825536,
-  "sha256": "cdbb94ae8543ab62e8eb4699c094de5ac693eb3a2caed1ca9f21f0a87a7746f1",
+  "versionCode": 1148,
+  "versionName": "1.48",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.48/Orvio-TV-1.48.apk",
+  "sizeBytes": 11841920,
+  "sha256": "5ceb5bf8bb995c26a5ce57c2deb090d38da1bf1cfd6e0d90778e38efa48150f9",
   "minSdk": 26,
-  "notes": "# Orvio 1.47\n\n- Tablet (staand): de knoppen Sorteren en Verberg bekeken bij Films en Series waren leeg en tonen nu hun tekst.\n- Tablet (staand): de kop \"Afleveringen\" op een seriepagina breekt niet meer in twee\u00ebn.\n- Een paar teksten die nog Engels waren zijn vertaald, onder meer bij Geluid en op de playlistkaart.\n"
+  "notes": "# Orvio 1.48\n\n- Onderhoud onder de motorkap: de app is intern opgeruimd, zodat nieuwe verbeteringen sneller en veiliger gemaakt kunnen worden.\n- Je merkt hier niets van; alles werkt zoals in 1.47.\n"
 }
