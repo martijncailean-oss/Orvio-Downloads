@@ -1,9 +1,9 @@
 {
-  "versionCode": 1148,
-  "versionName": "1.48",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.48/Orvio-TV-1.48.apk",
+  "versionCode": 1149,
+  "versionName": "1.49",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.49/Orvio-TV-1.49.apk",
   "sizeBytes": 11841920,
-  "sha256": "5ceb5bf8bb995c26a5ce57c2deb090d38da1bf1cfd6e0d90778e38efa48150f9",
+  "sha256": "5da2e9cbf409b0ee0763ee16b1d14bc190bcd533624981ef5a6fa66941046cb5",
   "minSdk": 26,
-  "notes": "# Orvio 1.48\n\n- Onderhoud onder de motorkap: de app is intern opgeruimd, zodat nieuwe verbeteringen sneller en veiliger gemaakt kunnen worden.\n- Je merkt hier niets van; alles werkt zoals in 1.47.\n"
+  "notes": "# Orvio 1.49\n\n- Het opstartprofiel is opnieuw opgenomen op telefoon en tv, zodat de app en de eerste schermen na een update meteen vlot openen.\n"
 }
