@@ -1,9 +1,9 @@
 {
-  "versionCode": 1150,
-  "versionName": "1.50",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.50/Orvio-TV-1.50.apk",
+  "versionCode": 1151,
+  "versionName": "1.51",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.51/Orvio-TV-1.51.apk",
   "sizeBytes": 11841920,
-  "sha256": "69665159e52e1efd1b9b3fd864abce24eb638213b74ca873261bddfc7220b5a9",
+  "sha256": "acf9629be790927bbc5a5e5319585732af8764aeaa000840e6dbbc8d0ec072cc",
   "minSdk": 26,
-  "notes": "# Orvio 1.50\n\n- Geen lege postervakken meer als de afbeeldingen van je provider niet laden: Orvio haalt dan na een paar seconden zelf de poster van de film of serie op.\n- Dit geldt ook voor titels waar je provider helemaal geen afbeelding bij levert.\n"
+  "notes": "# Orvio 1.51\n\n- \"Profiel toevoegen\" op het profielscherm staat nu in het Nederlands.\n"
 }
