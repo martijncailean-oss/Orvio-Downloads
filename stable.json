@@ -1,9 +1,9 @@
 {
-  "versionCode": 149,
-  "versionName": "1.49",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.49/Orvio-1.49.apk",
+  "versionCode": 150,
+  "versionName": "1.50",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.50/Orvio-1.50.apk",
   "sizeBytes": 11907456,
-  "sha256": "fc310eaa002202e6817a6f4a7bfbc34f6195abedde6534f8bc1532273e51fa9c",
+  "sha256": "88b70e812cfac2c81dd19f22acb7be071676a25b5d86df85ac6c1633e8108d2f",
   "minSdk": 26,
-  "notes": "# Orvio 1.49\n\n- Het opstartprofiel is opnieuw opgenomen op telefoon en tv, zodat de app en de eerste schermen na een update meteen vlot openen.\n"
+  "notes": "# Orvio 1.50\n\n- Geen lege postervakken meer als de afbeeldingen van je provider niet laden: Orvio haalt dan na een paar seconden zelf de poster van de film of serie op.\n- Dit geldt ook voor titels waar je provider helemaal geen afbeelding bij levert.\n"
 }
