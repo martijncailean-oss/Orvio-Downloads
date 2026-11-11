@@ -1,9 +1,9 @@
 {
-  "versionCode": 151,
-  "versionName": "1.51",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.51/Orvio-1.51.apk",
+  "versionCode": 152,
+  "versionName": "1.52",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.52/Orvio-1.52.apk",
   "sizeBytes": 11907456,
-  "sha256": "18a7ee5d505d30c7ea0aba177dd3d7231f9ef27d4c066db36e2b2f1d6b277ef9",
+  "sha256": "ec906b90f5c1f4cc19db34a5abac1803eae65589e3d6643010740d13353da403",
   "minSdk": 26,
-  "notes": "# Orvio 1.51\n\n- \"Profiel toevoegen\" op het profielscherm staat nu in het Nederlands.\n"
+  "notes": "# Orvio 1.52\n\n- Na een update zie je weer het scherm van Android dat de app is ge\u00efnstalleerd, met de knop Openen. Sinds 1.43 bleef je na het bijwerken zonder melding op het startscherm van je tv of telefoon achter.\n- Je merkt dit vanaf de update n\u00e1 deze: deze update wordt nog op de oude manier ge\u00efnstalleerd.\n"
 }
