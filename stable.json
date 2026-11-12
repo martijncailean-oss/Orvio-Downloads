@@ -1,9 +1,9 @@
 {
-  "versionCode": 152,
-  "versionName": "1.52",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.52/Orvio-1.52.apk",
+  "versionCode": 153,
+  "versionName": "1.53",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.53/Orvio-1.53.apk",
   "sizeBytes": 11907456,
-  "sha256": "ec906b90f5c1f4cc19db34a5abac1803eae65589e3d6643010740d13353da403",
+  "sha256": "4c1f32a6908fa21272b7a472b27c0691a60486c8ea48f9a3cd80e5901e31ae1f",
   "minSdk": 26,
-  "notes": "# Orvio 1.52\n\n- Na een update zie je weer het scherm van Android dat de app is ge\u00efnstalleerd, met de knop Openen. Sinds 1.43 bleef je na het bijwerken zonder melding op het startscherm van je tv of telefoon achter.\n- Je merkt dit vanaf de update n\u00e1 deze: deze update wordt nog op de oude manier ge\u00efnstalleerd.\n"
+  "notes": "# Orvio 1.53\n\n- Tv: alle pagina's hebben een bredere rand links en rechts, zodat het selectievak van de eerste poster niet meer buiten beeld valt.\n- Tv: de kaart bij \"Laatst bekeken\" toont de hele titel en de resterende tijd; Hervatten staat in de hoek.\n- Live-tv: speelt er nog niets, dan zie je rechts wat er nu en hierna is op de zender waar je op staat.\n"
 }
