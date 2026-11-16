@@ -1,9 +1,9 @@
 {
-  "versionCode": 153,
-  "versionName": "1.53",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.53/Orvio-1.53.apk",
+  "versionCode": 155,
+  "versionName": "1.55",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.55/Orvio-1.55.apk",
   "sizeBytes": 11907456,
-  "sha256": "4c1f32a6908fa21272b7a472b27c0691a60486c8ea48f9a3cd80e5901e31ae1f",
+  "sha256": "5aff3c6eeefd352ac3a99b1565e7d83603438aa6537e329066344677dac4d709",
   "minSdk": 26,
-  "notes": "# Orvio 1.53\n\n- Tv: alle pagina's hebben een bredere rand links en rechts, zodat het selectievak van de eerste poster niet meer buiten beeld valt.\n- Tv: de kaart bij \"Laatst bekeken\" toont de hele titel en de resterende tijd; Hervatten staat in de hoek.\n- Live-tv: speelt er nog niets, dan zie je rechts wat er nu en hierna is op de zender waar je op staat.\n"
+  "notes": "# Orvio 1.55\n\n- Veel sneller en stabieler op tv: de app liep na een paar dagen aanstaan vol in het geheugen, werd traag en bleef hangen op het laadscherm van Start. Dat is opgelost; de bibliotheek staat nu maar \u00e9\u00e9n keer in het geheugen, ook na vernieuwen.\n- Tv: \"Volgende aflevering\" is makkelijk te kiezen. Verschijnt de kaart aan het eind van een aflevering, dan speelt OK meteen de volgende af.\n- Tv: de zenderbalk verdwijnt na een paar seconden, ook als de tv-gids traag laadt.\n- Tv: omhoog vanaf de bovenste rij in Instellingen komt op het tandwiel uit.\n- \"Profiel toevoegen\" wordt niet meer afgekapt, en een paar teksten die nog Engels waren zijn vertaald.\n"
 }
