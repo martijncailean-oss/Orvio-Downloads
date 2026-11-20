@@ -1,9 +1,9 @@
 {
-  "versionCode": 1159,
-  "versionName": "1.59",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.59/Orvio-TV-1.59.apk",
+  "versionCode": 1160,
+  "versionName": "1.60",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.60/Orvio-TV-1.60.apk",
   "sizeBytes": 11858304,
-  "sha256": "c21753438a3a74e67f016dd3451e115c690a91f6e7f52e78f731b44ac8fbe60a",
+  "sha256": "50a41e1020409bb7832426e00e50f29360a239a27547f2e9bb3e32b557806ad3",
   "minSdk": 26,
-  "notes": "# Orvio 1.59\n\n- Volgende aflevering: de kaart met het plaatje van de volgende aflevering komt nu zodra de aftiteling begint, ook bij een lange aftiteling. Eerst kwam hij pas een halve minuut voor het einde.\n- De aftiteling wordt herkend aan regels tekst op een effen achtergrond: zwart, maar ook gekleurd, een donker of vervaagd beeld, of zwarte tekst op wit. Ondertitels tellen niet mee.\n- Loopt de aftiteling over bewegend beeld, dan onthoudt Orvio per serie waar je zelf al naar de volgende aflevering ging. Vanaf de volgende aflevering komt de kaart dan op dat moment.\n- Annuleren houdt de kaart weg voor die aflevering. De volgende aflevering start nog steeds pas vanzelf als de aflevering echt is afgelopen.\n"
+  "notes": "# Orvio 1.60\n\n- Volgende aflevering in een nieuw jasje. Telefoon en tablet: het beeld schuift kleiner naar links en speelt door. Rechts staan een grote foto van de volgende aflevering, de titel, een korte beschrijving en de knoppen Volgende aflevering en Afleveringen.\n- Tv: de aflevering blijft beeldvullend. Rechtsonder verschijnt een compact venster met de foto, de serie, de aflevering en de knoppen Volgende aflevering en Alle afleveringen.\n- Zodra de aftiteling wordt herkend, telt Orvio af (\"Volgende aflevering over 10 seconden\") en start daarna de volgende aflevering vanzelf. Met het kruisje stop je dat.\n- Heeft de provider geen foto van de aflevering, dan gebruikt Orvio die van TVmaze of een brede foto van de serie.\n"
 }
