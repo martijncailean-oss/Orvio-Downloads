@@ -1,9 +1,9 @@
 {
-  "versionCode": 157,
-  "versionName": "1.57",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.57/Orvio-1.57.apk",
+  "versionCode": 158,
+  "versionName": "1.58",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.58/Orvio-1.58.apk",
   "sizeBytes": 11907456,
-  "sha256": "04dda79d82b79edc95ac084ab8f1fe01df64b5ffe960ad781de66fe02ecc76c7",
+  "sha256": "47aef71cb74b01fa328bb72e03d6d6dc35b78a1386e990f40c016cde5e581cd6",
   "minSdk": 26,
-  "notes": "# Orvio 1.57\n\n- Opstarten gaat een stuk lichter: Orvio laadt je bibliotheek met minder dan de helft van het geheugen en bouwt de startpagina zonder onnodig rekenwerk op. Op de tv hapert het daardoor veel minder in de eerste minuut na het openen.\n- De seizoensanimatie (nu Sinterklaas) tekent op een eigen laag boven de app. De rest van het scherm hoeft daardoor niet steeds opnieuw getekend te worden, en bladeren met de afstandsbediening blijft vloeiend.\n- Het vernieuwen van je playlist en het opslaan daarvan gebruiken veel minder geheugen.\n"
+  "notes": "# Orvio 1.58\n\n- Tablets: op een kleine tablet rechtop (7-8 inch) vielen de tabbladen Series en Radio buiten beeld. De bovenbalk is daar nu compacter (alleen het logo, Zoeken als icoon), zodat alle tabbladen passen.\n- Tablets: \u00e9\u00e9n keer Terug op Home vraagt nu meteen of je Orvio wilt sluiten, net als op de telefoon. Eerst deed de eerste druk niets zichtbaars.\n- Tablets: de seriepagina op een kleine tablet rechtop staat nu onder elkaar, met de volledige titel en hele afleveringsnamen in plaats van afgekapte.\n- Telefoon liggend: in Instellingen waren Geluid, Account, App-updates en Over niet te bereiken; het menu aan de zijkant scrolt nu. Op de seriepagina staan Markeer als bekeken en Trailer er weer bij.\n- Verder kijken: de resterende tijd wordt naar boven afgerond, dus nooit meer \"0 min\" bij een titel die nog loopt.\n"
 }
