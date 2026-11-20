@@ -1,9 +1,9 @@
 {
-  "versionCode": 1155,
-  "versionName": "1.55",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.55/Orvio-TV-1.55.apk",
+  "versionCode": 1156,
+  "versionName": "1.56",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.56/Orvio-TV-1.56.apk",
   "sizeBytes": 11841920,
-  "sha256": "36f78aaeef25a97aab8db9199ad51582c6ef5cf84644833d13b35fc5ac298de3",
+  "sha256": "179a10d3da362ac827ce102bc2e249129f010c05134d16de14ae1643d2ce461a",
   "minSdk": 26,
-  "notes": "# Orvio 1.55\n\n- Veel sneller en stabieler op tv: de app liep na een paar dagen aanstaan vol in het geheugen, werd traag en bleef hangen op het laadscherm van Start. Dat is opgelost; de bibliotheek staat nu maar \u00e9\u00e9n keer in het geheugen, ook na vernieuwen.\n- Tv: \"Volgende aflevering\" is makkelijk te kiezen. Verschijnt de kaart aan het eind van een aflevering, dan speelt OK meteen de volgende af.\n- Tv: de zenderbalk verdwijnt na een paar seconden, ook als de tv-gids traag laadt.\n- Tv: omhoog vanaf de bovenste rij in Instellingen komt op het tandwiel uit.\n- \"Profiel toevoegen\" wordt niet meer afgekapt, en een paar teksten die nog Engels waren zijn vertaald.\n"
+  "notes": "# Orvio 1.56\n\n- Orvio snel na elkaar sluiten en weer openen laat de app niet meer vastlopen of crashen. De bibliotheek blijft \u00e9\u00e9n keer in het geheugen staan, en de tweede keer opent Orvio direct, zonder opnieuw te laden.\n- Openen na een nacht: het vernieuwen van je playlist begint pas na twee minuten en op de achtergrond met lage voorrang, zodat de afstandsbediening meteen vlot reageert. Sluit je de app eerder, dan vernieuwt Orvio later op de achtergrond.\n- Het vernieuwen 's nachts op de achtergrond laadt je bibliotheek niet meer dubbel in het geheugen.\n- Tv: de bovenbalk zit niet meer tegen de bovenrand van het scherm, en opzij is er iets meer ruimte.\n"
 }
