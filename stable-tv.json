@@ -1,9 +1,9 @@
 {
-  "versionCode": 1156,
-  "versionName": "1.56",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.56/Orvio-TV-1.56.apk",
-  "sizeBytes": 11841920,
-  "sha256": "179a10d3da362ac827ce102bc2e249129f010c05134d16de14ae1643d2ce461a",
+  "versionCode": 1157,
+  "versionName": "1.57",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.57/Orvio-TV-1.57.apk",
+  "sizeBytes": 11858304,
+  "sha256": "7c02257ec4282739efd70d6b76fde1357929e9a112fbe71e09297d8d225e96ad",
   "minSdk": 26,
-  "notes": "# Orvio 1.56\n\n- Orvio snel na elkaar sluiten en weer openen laat de app niet meer vastlopen of crashen. De bibliotheek blijft \u00e9\u00e9n keer in het geheugen staan, en de tweede keer opent Orvio direct, zonder opnieuw te laden.\n- Openen na een nacht: het vernieuwen van je playlist begint pas na twee minuten en op de achtergrond met lage voorrang, zodat de afstandsbediening meteen vlot reageert. Sluit je de app eerder, dan vernieuwt Orvio later op de achtergrond.\n- Het vernieuwen 's nachts op de achtergrond laadt je bibliotheek niet meer dubbel in het geheugen.\n- Tv: de bovenbalk zit niet meer tegen de bovenrand van het scherm, en opzij is er iets meer ruimte.\n"
+  "notes": "# Orvio 1.57\n\n- Opstarten gaat een stuk lichter: Orvio laadt je bibliotheek met minder dan de helft van het geheugen en bouwt de startpagina zonder onnodig rekenwerk op. Op de tv hapert het daardoor veel minder in de eerste minuut na het openen.\n- De seizoensanimatie (nu Sinterklaas) tekent op een eigen laag boven de app. De rest van het scherm hoeft daardoor niet steeds opnieuw getekend te worden, en bladeren met de afstandsbediening blijft vloeiend.\n- Het vernieuwen van je playlist en het opslaan daarvan gebruiken veel minder geheugen.\n"
 }
