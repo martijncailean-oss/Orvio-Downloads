@@ -1,9 +1,9 @@
 {
-  "versionCode": 1158,
-  "versionName": "1.58",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.58/Orvio-TV-1.58.apk",
+  "versionCode": 1159,
+  "versionName": "1.59",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.59/Orvio-TV-1.59.apk",
   "sizeBytes": 11858304,
-  "sha256": "7eca9d14126438334f30a0eee5a97521c7ceeb1463ab71ed5bee0ba78844a686",
+  "sha256": "c21753438a3a74e67f016dd3451e115c690a91f6e7f52e78f731b44ac8fbe60a",
   "minSdk": 26,
-  "notes": "# Orvio 1.58\n\n- Tablets: op een kleine tablet rechtop (7-8 inch) vielen de tabbladen Series en Radio buiten beeld. De bovenbalk is daar nu compacter (alleen het logo, Zoeken als icoon), zodat alle tabbladen passen.\n- Tablets: \u00e9\u00e9n keer Terug op Home vraagt nu meteen of je Orvio wilt sluiten, net als op de telefoon. Eerst deed de eerste druk niets zichtbaars.\n- Tablets: de seriepagina op een kleine tablet rechtop staat nu onder elkaar, met de volledige titel en hele afleveringsnamen in plaats van afgekapte.\n- Telefoon liggend: in Instellingen waren Geluid, Account, App-updates en Over niet te bereiken; het menu aan de zijkant scrolt nu. Op de seriepagina staan Markeer als bekeken en Trailer er weer bij.\n- Verder kijken: de resterende tijd wordt naar boven afgerond, dus nooit meer \"0 min\" bij een titel die nog loopt.\n"
+  "notes": "# Orvio 1.59\n\n- Volgende aflevering: de kaart met het plaatje van de volgende aflevering komt nu zodra de aftiteling begint, ook bij een lange aftiteling. Eerst kwam hij pas een halve minuut voor het einde.\n- De aftiteling wordt herkend aan regels tekst op een effen achtergrond: zwart, maar ook gekleurd, een donker of vervaagd beeld, of zwarte tekst op wit. Ondertitels tellen niet mee.\n- Loopt de aftiteling over bewegend beeld, dan onthoudt Orvio per serie waar je zelf al naar de volgende aflevering ging. Vanaf de volgende aflevering komt de kaart dan op dat moment.\n- Annuleren houdt de kaart weg voor die aflevering. De volgende aflevering start nog steeds pas vanzelf als de aflevering echt is afgelopen.\n"
 }
