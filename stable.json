@@ -1,9 +1,9 @@
 {
-  "versionCode": 160,
-  "versionName": "1.60",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.60/Orvio-1.60.apk",
+  "versionCode": 161,
+  "versionName": "1.61",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.61/Orvio-1.61.apk",
   "sizeBytes": 11923840,
-  "sha256": "a5bfd17351111f8f401598b87b6f644edf8ab8e8cc89aec98034cf7682ff0f19",
+  "sha256": "955a0d396c7dbb7493ab733258d74cfcb8e1df68b1568483a78e653b37d2ca7e",
   "minSdk": 26,
-  "notes": "# Orvio 1.60\n\n- Volgende aflevering in een nieuw jasje. Telefoon en tablet: het beeld schuift kleiner naar links en speelt door. Rechts staan een grote foto van de volgende aflevering, de titel, een korte beschrijving en de knoppen Volgende aflevering en Afleveringen.\n- Tv: de aflevering blijft beeldvullend. Rechtsonder verschijnt een compact venster met de foto, de serie, de aflevering en de knoppen Volgende aflevering en Alle afleveringen.\n- Zodra de aftiteling wordt herkend, telt Orvio af (\"Volgende aflevering over 10 seconden\") en start daarna de volgende aflevering vanzelf. Met het kruisje stop je dat.\n- Heeft de provider geen foto van de aflevering, dan gebruikt Orvio die van TVmaze of een brede foto van de serie.\n"
+  "notes": "# Orvio 1.61\n\n- Volgende aflevering: bij een serie die in allebei je playlists staat, gaf de versie uit de tweede playlist helemaal geen volgende aflevering. Er kwam geen kaart, en de knoppen Afleveringen en Volgende aflevering ontbraken in de speler. Dat is opgelost.\n- Hetzelfde gold voor een serie uit een verborgen categorie.\n- Verder kijken op het Google TV-startscherm en meldingen van nieuwe afleveringen openen zo'n serie nu ook.\n- Geeft je provider een keer geen antwoord op de afleveringslijst, dan vraagt Orvio het later opnieuw. Eerst bleef de hele aflevering dan zonder volgende aflevering.\n"
 }
