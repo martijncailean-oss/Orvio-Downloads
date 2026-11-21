@@ -1,9 +1,9 @@
 {
-  "versionCode": 1164,
-  "versionName": "1.64",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.64/Orvio-TV-1.64.apk",
+  "versionCode": 1165,
+  "versionName": "1.65",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.65/Orvio-TV-1.65.apk",
   "sizeBytes": 11858304,
-  "sha256": "79be112737aee9b9855bce123c18ae9a1f0404294fd17248352cd242ec330249",
+  "sha256": "992e05bfa73340ee2c63c0c6ec464eae3b69b85bd1cc1601f03c5eee185ebd04",
   "minSdk": 26,
-  "notes": "# Orvio 1.64\n\n- Volgende aflevering: als je de kaart met het kruisje wegdrukte om terug te spoelen, omdat je iets had gemist, kwam hij in die aflevering niet meer terug, ook niet in de laatste halve minuut. Nu komt de kaart weer zodra je opnieuw bij de aftiteling of het einde bent, en telt hij weer af vanaf 10.\n"
+  "notes": "# Orvio 1.65\n\n- Volgende aflevering: Orvio herkent nu ook het einde van series die afsluiten met een vooruitblik op de volgende aflevering, zoals \"Volgende keer\" bij Waar de F\\*ck is Stuk of \u6b21\u56de\u4e88\u544a bij anime. Een label dat blijft staan terwijl het beeld erachter wisselt, telt in de laatste drie minuten als aftiteling. De kaart voor de volgende aflevering komt dan al tijdens de vooruitblik en telt af, in plaats van pas een halve minuut voor het einde.\n"
 }
