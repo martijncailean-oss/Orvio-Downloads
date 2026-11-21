@@ -1,9 +1,9 @@
 {
-  "versionCode": 1162,
-  "versionName": "1.62",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.62/Orvio-TV-1.62.apk",
+  "versionCode": 1163,
+  "versionName": "1.63",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.63/Orvio-TV-1.63.apk",
   "sizeBytes": 11858304,
-  "sha256": "5a1a223d83eb98865f2c6d301329a07074288034c1a9f6ef73c05732573cbe6b",
+  "sha256": "13163f1f069e811b955b57193a46a469034baf7ac457ad5302035355b0980c07",
   "minSdk": 26,
-  "notes": "# Orvio 1.62\n\n- Volgende aflevering: Orvio herkent nu vanzelf ook een aftiteling die over het beeld loopt. Bijvoorbeeld de tekstbalk onderin bij Nederlandse omroepen (\"met dank aan ...\"), of een rol omhoog over een sc\u00e8ne. De kaart voor de volgende aflevering komt dan op tijd, zonder dat je eerst iets hoeft te doen.\n- Ondertitels, een logo en een camera die zwenkt of inzoomt worden niet voor aftiteling aangezien.\n- Telefoon: zolang de volgende aflevering in beeld is, verdwijnt de gewone bediening, zodat de knoppen niet meer door elkaar lopen. Het kruisje brengt de bediening terug.\n"
+  "notes": "# Orvio 1.63\n\n- Volgende aflevering: Orvio herkent nu ook een aftiteling met losse naamkaarten die steeds wisselen, zoals bij oudere tekenfilmseries en het eindlied van anime. De kaart voor de volgende aflevering komt dan kort na het begin van de aftiteling, in plaats van een halve minuut voor het einde.\n- Op de Google TV Streamer bleef een serie of film soms zwart op 0:00 staan als je net iets anders had gekeken, bijvoorbeeld eerst een NPO-programma en daarna een serie. Elke video begint nu met een verse decoder, zodat dat niet meer gebeurt.\n"
 }
