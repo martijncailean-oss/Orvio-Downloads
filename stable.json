@@ -1,9 +1,9 @@
 {
-  "versionCode": 163,
-  "versionName": "1.63",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.63/Orvio-1.63.apk",
+  "versionCode": 164,
+  "versionName": "1.64",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.64/Orvio-1.64.apk",
   "sizeBytes": 11923840,
-  "sha256": "64e88c3733fcc2b7533e8bf816dc3662d82e6393c28c1ed87b57bae126f5d6bd",
+  "sha256": "d747b80252106d57f4a8fd5929e4a9565707c3e235129f08420a305453e41359",
   "minSdk": 26,
-  "notes": "# Orvio 1.63\n\n- Volgende aflevering: Orvio herkent nu ook een aftiteling met losse naamkaarten die steeds wisselen, zoals bij oudere tekenfilmseries en het eindlied van anime. De kaart voor de volgende aflevering komt dan kort na het begin van de aftiteling, in plaats van een halve minuut voor het einde.\n- Op de Google TV Streamer bleef een serie of film soms zwart op 0:00 staan als je net iets anders had gekeken, bijvoorbeeld eerst een NPO-programma en daarna een serie. Elke video begint nu met een verse decoder, zodat dat niet meer gebeurt.\n"
+  "notes": "# Orvio 1.64\n\n- Volgende aflevering: als je de kaart met het kruisje wegdrukte om terug te spoelen, omdat je iets had gemist, kwam hij in die aflevering niet meer terug, ook niet in de laatste halve minuut. Nu komt de kaart weer zodra je opnieuw bij de aftiteling of het einde bent, en telt hij weer af vanaf 10.\n"
 }
