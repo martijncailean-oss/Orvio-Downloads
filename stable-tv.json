@@ -1,9 +1,9 @@
 {
-  "versionCode": 1161,
-  "versionName": "1.61",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.61/Orvio-TV-1.61.apk",
+  "versionCode": 1162,
+  "versionName": "1.62",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.62/Orvio-TV-1.62.apk",
   "sizeBytes": 11858304,
-  "sha256": "71d2e8db7296cd2173ef75391c91bae98d7be84da0693e5be18d8ba4e0da2020",
+  "sha256": "5a1a223d83eb98865f2c6d301329a07074288034c1a9f6ef73c05732573cbe6b",
   "minSdk": 26,
-  "notes": "# Orvio 1.61\n\n- Volgende aflevering: bij een serie die in allebei je playlists staat, gaf de versie uit de tweede playlist helemaal geen volgende aflevering. Er kwam geen kaart, en de knoppen Afleveringen en Volgende aflevering ontbraken in de speler. Dat is opgelost.\n- Hetzelfde gold voor een serie uit een verborgen categorie.\n- Verder kijken op het Google TV-startscherm en meldingen van nieuwe afleveringen openen zo'n serie nu ook.\n- Geeft je provider een keer geen antwoord op de afleveringslijst, dan vraagt Orvio het later opnieuw. Eerst bleef de hele aflevering dan zonder volgende aflevering.\n"
+  "notes": "# Orvio 1.62\n\n- Volgende aflevering: Orvio herkent nu vanzelf ook een aftiteling die over het beeld loopt. Bijvoorbeeld de tekstbalk onderin bij Nederlandse omroepen (\"met dank aan ...\"), of een rol omhoog over een sc\u00e8ne. De kaart voor de volgende aflevering komt dan op tijd, zonder dat je eerst iets hoeft te doen.\n- Ondertitels, een logo en een camera die zwenkt of inzoomt worden niet voor aftiteling aangezien.\n- Telefoon: zolang de volgende aflevering in beeld is, verdwijnt de gewone bediening, zodat de knoppen niet meer door elkaar lopen. Het kruisje brengt de bediening terug.\n"
 }
