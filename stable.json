@@ -1,9 +1,9 @@
 {
-  "versionCode": 166,
-  "versionName": "1.66",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.66/Orvio-1.66.apk",
+  "versionCode": 167,
+  "versionName": "1.67",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.67/Orvio-1.67.apk",
   "sizeBytes": 11940224,
-  "sha256": "b8b8a2f8d09696c42517ef2d5eb39f582b50de03df2ed35bd7f8b5000412c5c1",
+  "sha256": "fa0f1f5a1dfc9014f7ee2347749910f1e2691d86881d4a0dd10cdb2c6ebfb71f",
   "minSdk": 26,
-  "notes": "# Orvio 1.66\n\n- Intro overslaan: Orvio leert nu zelf waar de intro van een serie zit, door het begin van twee afleveringen met elkaar te vergelijken. Daarna springt \"Intro overslaan\" precies naar het einde van de intro, of van de titelkaart na een terugblik, zoals bij Waar de F\\*ck is Stuk. Dat werkt ook als je al tijdens de terugblik drukt. De knop verdwijnt zodra de intro voorbij is, zodat je nooit meer per ongeluk een stuk van de aflevering overslaat. Bij series waarvan Orvio de intro nog niet kent, werkt de knop zoals voorheen.\n- Volgende aflevering: stopte je een aflevering een paar minuten voor het einde en keek je later verder met de volgende, dan dacht Orvio dat de aftiteling van die serie zo vroeg begon. De kaart kwam daarna in elke aflevering te vroeg. Orvio leert dat nu alleen nog als je meteen doorgaat naar de volgende aflevering.\n"
+  "notes": "# Orvio 1.67\n\n- Volgende aflevering: als een ondertitel de volgende aflevering aankondigt, zoals \"Volgende week in Kamp van Koningsbrugge\" of \"Volgende keer in Waar de F\\*ck is Stuk\", komt de kaart nu meteen. Dat werkt ook als er geen herkenbare aftiteling in beeld is. De ondertitels moeten daarvoor aan staan.\n- Op de tv staan de ondertitels nu boven de kaart voor de volgende aflevering, in plaats van erachter.\n- Laatst bekeken: houd OK ingedrukt op een titel (op de telefoon: lang indrukken) om alleen die titel uit de lijst te halen. Bij een serie blijft bewaard waar je in de afleveringen was.\n- Een gepauzeerde video werd elke 5 seconden opnieuw opgeslagen en sprong daardoor steeds vooraan in Laatst bekeken. Dat gebeurt nu alleen nog tijdens het kijken.\n"
 }
