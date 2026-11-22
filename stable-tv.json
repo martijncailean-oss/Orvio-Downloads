@@ -1,9 +1,9 @@
 {
-  "versionCode": 1165,
-  "versionName": "1.65",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.65/Orvio-TV-1.65.apk",
-  "sizeBytes": 11858304,
-  "sha256": "992e05bfa73340ee2c63c0c6ec464eae3b69b85bd1cc1601f03c5eee185ebd04",
+  "versionCode": 1166,
+  "versionName": "1.66",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.66/Orvio-TV-1.66.apk",
+  "sizeBytes": 11874688,
+  "sha256": "0f4fbebaacf6253a4a9eea930c89efd9a099593c8a290f637489161d16533b59",
   "minSdk": 26,
-  "notes": "# Orvio 1.65\n\n- Volgende aflevering: Orvio herkent nu ook het einde van series die afsluiten met een vooruitblik op de volgende aflevering, zoals \"Volgende keer\" bij Waar de F\\*ck is Stuk of \u6b21\u56de\u4e88\u544a bij anime. Een label dat blijft staan terwijl het beeld erachter wisselt, telt in de laatste drie minuten als aftiteling. De kaart voor de volgende aflevering komt dan al tijdens de vooruitblik en telt af, in plaats van pas een halve minuut voor het einde.\n"
+  "notes": "# Orvio 1.66\n\n- Intro overslaan: Orvio leert nu zelf waar de intro van een serie zit, door het begin van twee afleveringen met elkaar te vergelijken. Daarna springt \"Intro overslaan\" precies naar het einde van de intro, of van de titelkaart na een terugblik, zoals bij Waar de F\\*ck is Stuk. Dat werkt ook als je al tijdens de terugblik drukt. De knop verdwijnt zodra de intro voorbij is, zodat je nooit meer per ongeluk een stuk van de aflevering overslaat. Bij series waarvan Orvio de intro nog niet kent, werkt de knop zoals voorheen.\n- Volgende aflevering: stopte je een aflevering een paar minuten voor het einde en keek je later verder met de volgende, dan dacht Orvio dat de aftiteling van die serie zo vroeg begon. De kaart kwam daarna in elke aflevering te vroeg. Orvio leert dat nu alleen nog als je meteen doorgaat naar de volgende aflevering.\n"
 }
