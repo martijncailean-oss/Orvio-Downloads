@@ -1,9 +1,9 @@
 {
-  "versionCode": 1167,
-  "versionName": "1.67",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.67/Orvio-TV-1.67.apk",
-  "sizeBytes": 11874688,
-  "sha256": "a587ef38f669d5346ebe97d2194ddc0de6c97f31205b60fd3649c80ecdb2de16",
+  "versionCode": 1168,
+  "versionName": "1.68",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.68/Orvio-TV-1.68.apk",
+  "sizeBytes": 11891072,
+  "sha256": "c0ab4429efb3ddbbc3593abdf8ec1ce3d99ff0eb58e1179546011cf8d86683f3",
   "minSdk": 26,
-  "notes": "# Orvio 1.67\n\n- Volgende aflevering: als een ondertitel de volgende aflevering aankondigt, zoals \"Volgende week in Kamp van Koningsbrugge\" of \"Volgende keer in Waar de F\\*ck is Stuk\", komt de kaart nu meteen. Dat werkt ook als er geen herkenbare aftiteling in beeld is. De ondertitels moeten daarvoor aan staan.\n- Op de tv staan de ondertitels nu boven de kaart voor de volgende aflevering, in plaats van erachter.\n- Laatst bekeken: houd OK ingedrukt op een titel (op de telefoon: lang indrukken) om alleen die titel uit de lijst te halen. Bij een serie blijft bewaard waar je in de afleveringen was.\n- Een gepauzeerde video werd elke 5 seconden opnieuw opgeslagen en sprong daardoor steeds vooraan in Laatst bekeken. Dat gebeurt nu alleen nog tijdens het kijken.\n"
+  "notes": "# Orvio 1.68\n\n- Volgende aflevering: een vooruitblik wordt nu ook herkend als de ondertitels uit staan. Orvio leest ze op de achtergrond mee zolang het naar de aftiteling zoekt; in beeld blijven ze uit.\n- Aftiteling met donkere letters op witte vlakken, zoals bij Waar de F\\*ck is Stuk en Naruto, wordt nu herkend.\n- Intro overslaan werkt nu al vanaf de tweede aflevering: Orvio herkent het introfilmpje aan de vorige aflevering. Druk tijdens het filmpje op \u25b2 (op de telefoon: de knop). Orvio zoekt dan zelf het einde op, onder een zwart scherm met \"Intro overslaan\u2026\", en onthoudt het voor de volgende afleveringen.\n- Intro overslaan landt preciezer. Bij intro's met veel snelle beelden, zoals Kamp van Koningsbrugge, stopte het soms te vroeg of te laat. Leren van twee bekeken afleveringen pakt nu het hele gedeelde begin, en niet meer een los terugkerend stukje.\n- De versie die je kiest (bijvoorbeeld Nederlands of Frans) wordt per serie onthouden. Orvio vraagt het dus niet meer bij elke aflevering.\n- Recente zoekopdrachten: houd OK ingedrukt op een zoekopdracht (op de telefoon: lang indrukken) om alleen die te verwijderen.\n- Na een update is Orvio meteen snel: de update wordt nu ge\u00efnstalleerd met een profiel waarmee Android de app direct optimaliseert.\n- Een titel die je uit Laatst bekeken haalde terwijl hij gepauzeerd in de speler stond, kwam terug zodra je de speler sloot. Dat is opgelost.\n"
 }
