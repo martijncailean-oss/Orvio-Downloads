@@ -1,9 +1,9 @@
 {
-  "versionCode": 1172,
-  "versionName": "1.72",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.72/Orvio-TV-1.72.apk",
+  "versionCode": 1173,
+  "versionName": "1.73",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.73/Orvio-TV-1.73.apk",
   "sizeBytes": 11891072,
-  "sha256": "05d5f82a175ca57a7f97ee20fd1da40abee8b6dd7d4af74fb9d639b8cd31cee9",
+  "sha256": "65a91220b86cf98d9b9852633ca9ae6407b2c721c4ae3ecad4e9e34bdd381927",
   "minSdk": 26,
-  "notes": "# Orvio 1.72\n\n- Tv: de tijdbalk, de tijd en alle knoppen in de speler hebben nu dezelfde maat als de rest van de app. Ze waren veel groter dan de titel.\n- De plaatjes bij Downloads, Account en Over hebben geen donker vlak meer om zich heen.\n- Een film zonder beschrijving zegt nu in het Nederlands dat er geen samenvatting is.\n- Vanaf de volgende update: de update-pagina zegt vooraf dat je na de update op het startscherm van je tv uitkomt, met Orvio geselecteerd, en Orvio meldt daarna \"Orvio is bijgewerkt\".\n"
+  "notes": "# Orvio 1.73\n\n- Telefoon: Terug sluit in de speler eerst een geopende lijst (audio en ondertitels, afleveringen, snelheid of slaaptimer). Eerder sloot Terug meteen de hele speler.\n"
 }
