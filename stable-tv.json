@@ -1,9 +1,9 @@
 {
-  "versionCode": 1169,
-  "versionName": "1.69",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.69/Orvio-TV-1.69.apk",
+  "versionCode": 1170,
+  "versionName": "1.70",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.70/Orvio-TV-1.70.apk",
   "sizeBytes": 11891072,
-  "sha256": "7cee10a622a4d9cb69b331cbf0d0f2cabc44a8f4cb827c0339fbeb9f8b43ea6c",
+  "sha256": "650a9fb336d568d516946fada8fabb57e0961b8ff04b3882355ba5bdad2d7191",
   "minSdk": 26,
-  "notes": "# Orvio 1.69\n\n- Tv: de tijdbalk en de knoppen onder in de speler blijven binnen de rand van het scherm, net als de rest van de app. Het eind van de balk viel op sommige tv's buiten beeld.\n- Tv: het gouden kader om de tijdbalk sluit nu om de balk heen in plaats van een groot blok te zijn, en het tandwiel is even groot als de knoppen ernaast.\n- Tv: de titel en de labels boven in de speler en de zenderbalk onderin houden dezelfde afstand tot de rand.\n"
+  "notes": "# Orvio 1.70\n\n- Tv: ondertitels schuiven omhoog boven de tijdbalk en de knoppen zolang die in beeld zijn. Ze liepen er dwars overheen.\n- Tv: CC en het tandwiel openen nu een eigen menu in het midden van het scherm, net als \u22ee. Het oude menu zat tegen de rechterrand van het scherm en over de knoppen heen.\n- Tv: onder het tandwiel staan het audiospoor, de afspeelsnelheid en het gelijk zetten van geluid en beeld; onder CC de ondertitels, hun grootte en ondertitels online zoeken.\n"
 }
