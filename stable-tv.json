@@ -1,9 +1,9 @@
 {
-  "versionCode": 1170,
-  "versionName": "1.70",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.70/Orvio-TV-1.70.apk",
+  "versionCode": 1171,
+  "versionName": "1.71",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.71/Orvio-TV-1.71.apk",
   "sizeBytes": 11891072,
-  "sha256": "650a9fb336d568d516946fada8fabb57e0961b8ff04b3882355ba5bdad2d7191",
+  "sha256": "2048d5be000662e454677fbfe487619a5e5a042a2871f0b5a81beaed67f42e84",
   "minSdk": 26,
-  "notes": "# Orvio 1.70\n\n- Tv: ondertitels schuiven omhoog boven de tijdbalk en de knoppen zolang die in beeld zijn. Ze liepen er dwars overheen.\n- Tv: CC en het tandwiel openen nu een eigen menu in het midden van het scherm, net als \u22ee. Het oude menu zat tegen de rechterrand van het scherm en over de knoppen heen.\n- Tv: onder het tandwiel staan het audiospoor, de afspeelsnelheid en het gelijk zetten van geluid en beeld; onder CC de ondertitels, hun grootte en ondertitels online zoeken.\n"
+  "notes": "# Orvio 1.71\n\n- Tv: de titel boven in de speler is groter en beter te lezen vanaf de bank.\n- Tv: de tijd en de knoppen onder de tijdbalk zijn kleiner, net zo groot als de rest van de app. Ze waren veel groter dan de titel.\n"
 }
