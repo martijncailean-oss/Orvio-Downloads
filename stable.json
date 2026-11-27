@@ -1,9 +1,9 @@
 {
-  "versionCode": 171,
-  "versionName": "1.71",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.71/Orvio-1.71.apk",
+  "versionCode": 172,
+  "versionName": "1.72",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.72/Orvio-1.72.apk",
   "sizeBytes": 11956608,
-  "sha256": "3e165691baccdfc3f66b5ddc38a4ccc33641a124ec59b4bf2602853acfd745cd",
+  "sha256": "ea52fd3a3929171702432e5c413fdf417b7d50e58ce0f6453eb8a53f59827fe5",
   "minSdk": 26,
-  "notes": "# Orvio 1.71\n\n- Tv: de titel boven in de speler is groter en beter te lezen vanaf de bank.\n- Tv: de tijd en de knoppen onder de tijdbalk zijn kleiner, net zo groot als de rest van de app. Ze waren veel groter dan de titel.\n"
+  "notes": "# Orvio 1.72\n\n- Tv: de tijdbalk, de tijd en alle knoppen in de speler hebben nu dezelfde maat als de rest van de app. Ze waren veel groter dan de titel.\n- De plaatjes bij Downloads, Account en Over hebben geen donker vlak meer om zich heen.\n- Een film zonder beschrijving zegt nu in het Nederlands dat er geen samenvatting is.\n- Vanaf de volgende update: de update-pagina zegt vooraf dat je na de update op het startscherm van je tv uitkomt, met Orvio geselecteerd, en Orvio meldt daarna \"Orvio is bijgewerkt\".\n"
 }
