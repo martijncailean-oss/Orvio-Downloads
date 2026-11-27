@@ -1,9 +1,9 @@
 {
-  "versionCode": 1174,
-  "versionName": "1.74",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.74/Orvio-TV-1.74.apk",
+  "versionCode": 1175,
+  "versionName": "1.75",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.75/Orvio-TV-1.75.apk",
   "sizeBytes": 11891128,
-  "sha256": "2d355810e123f4b8abea4f7d7285bf07fcf36497b80a11e59a9030afac0c9695",
+  "sha256": "09fac9d82f769e9792d0cbc1838549e8102ec55991dd98f60c69b4b824e01bed",
   "minSdk": 26,
-  "notes": "# Orvio 1.74\n\n- Meldingen over nieuwe afleveringen zijn verfijnd:\n  - De poster van de serie staat bij de melding, en het Orvio-boogje in de statusbalk.\n  - Een titel als \"NL| Waar de F*ck is Stuk\" staat er nu zonder \"NL|\", ook in de rest van de app.\n  - Orvio kijkt na elke keer dat je playlist vernieuwt, ook als de app open staat of alleen bij het starten vernieuwt. Eerder kwam een melding soms een ronde te laat, of helemaal niet.\n  - Geen melding voor een aflevering die je al gezien of begonnen bent, ook niet als dat op een ander apparaat was.\n  - Tussen 23:00 en 8:00 komt een melding zonder geluid; hij staat er 's ochtends nog.\n  - Volg je meer dan 40 series, dan gaan de series die je het laatst keek voor.\n- Belletje op de seriepagina: meldingen over nieuwe afleveringen per serie aan of uit. Favorieten en series die je kijkt staan vanzelf aan.\n- Tv: een nieuwe aflevering van een serie die je volgt, verschijnt in de rij \"Doorgaan met kijken\" op het startscherm van Google TV. Een tv laat zelf geen meldingen zien.\n"
+  "notes": "# Orvio 1.75\n\n- Tv: series haperen niet meer in de eerste en laatste minuten van een aflevering. Orvio keek daar mee naar het beeld om de intro te leren en de aftiteling te zien, en op Google TV bracht dat het beeld uit zijn ritme.\n- Tv: de volgende aflevering verschijnt nu op het punt dat Orvio van eerder kent, bij een vooruitblik in de ondertitels, of in de laatste halve minuut. Op een telefoon ziet Orvio de aftiteling nog gewoon op het scherm.\n"
 }
