@@ -1,9 +1,9 @@
 {
-  "versionCode": 1175,
-  "versionName": "1.75",
-  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.75/Orvio-TV-1.75.apk",
-  "sizeBytes": 11891128,
-  "sha256": "09fac9d82f769e9792d0cbc1838549e8102ec55991dd98f60c69b4b824e01bed",
+  "versionCode": 1176,
+  "versionName": "1.76",
+  "apkUrl": "https://github.com/martijncailean-oss/Orvio-Downloads/releases/download/v1.76/Orvio-TV-1.76.apk",
+  "sizeBytes": 11911608,
+  "sha256": "acdf0f50a8a0c109371d7dc55614458d45eb21c55d00e4523ac8e41b2e2e2303",
   "minSdk": 26,
-  "notes": "# Orvio 1.75\n\n- Tv: series haperen niet meer in de eerste en laatste minuten van een aflevering. Orvio keek daar mee naar het beeld om de intro te leren en de aftiteling te zien, en op Google TV bracht dat het beeld uit zijn ritme.\n- Tv: de volgende aflevering verschijnt nu op het punt dat Orvio van eerder kent, bij een vooruitblik in de ondertitels, of in de laatste halve minuut. Op een telefoon ziet Orvio de aftiteling nog gewoon op het scherm.\n"
+  "notes": "# Orvio 1.76\n\n- Tv: Orvio leert de intro en de aftiteling van een serie nu aan het geluid in plaats van aan het beeld. Het beeld kopi\u00ebren liet de tv haperen.\n  - Na twee afleveringen kent Orvio de intro: \"Intro overslaan\" verschijnt zodra de intro begint en springt precies naar het einde.\n  - Vanaf de tweede aflevering verschijnt de volgende aflevering zodra de eindtune begint.\n  - Gaat het geluid als Dolby rechtstreeks naar je tv of soundbar, dan hoort Orvio het niet en gebruikt het wat het eerder leerde.\n- Tv: nieuwe instelling \"Beeldfrequentie aanpassen\" (Instellingen \u203a Afspelen, standaard aan). De tv schakelt naar de beeldfrequentie van de video (24, 25 of 50 Hz), zodat films en live-tv niet meer schokken. Op Google TV moet daarvoor ook Instellingen \u203a Weergave en geluid \u203a Gelijk houden met framesnelheid van content op Altijd staan; Orvio wijst je de weg.\n"
 }
